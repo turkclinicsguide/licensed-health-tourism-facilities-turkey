@@ -1,0 +1,5448 @@
+{
+ "source": "https://shgmturizmdb.saglik.gov.tr/TR-25360/yetkili-saglik-tesisleri-ve-araci-kuruluslar.html",
+ "accessed": "2026-10-29",
+ "publisher": "TurkClinics",
+ "count": 680,
+ "facilities": [
+  {
+   "name": "Çukurova Üniversitesi Hastanesi Adana",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Adana",
+   "district": "Sarıçam",
+   "address": "Çukurova Üniversite Kampüsü 01330 Balcalı Sarıçam/Adana"
+  },
+  {
+   "name": "Özel Acıbadem Adana Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Seyhan",
+   "address": "Döşeme Mahallesi Cumhuriyet Caddesi No:66 01130 Seyhan/Adana"
+  },
+  {
+   "name": "Özel Acıbadem Ortopedia Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Seyhan",
+   "address": "Döşeme Mahallesi ( Çifte Minare Civarı) Cumhuriyet Caddesi No:64 Seyhan / Adana"
+  },
+  {
+   "name": "Özel Algomed Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Yüreğir",
+   "address": "Kozan Yolu Üzeri Sarıçam Mahallesi No:136 Yüreğir Otogar Karşısı Yüreğir / Adana"
+  },
+  {
+   "name": "Özel Avrupa Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Çukurova",
+   "address": "Toros Mahallesi Şehitler Bulvarı No:43 Çukurova/Adana"
+  },
+  {
+   "name": "Özel Dünya Göz Tıp Merkezi Adana",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Adana",
+   "district": "Seyhan",
+   "address": "Çınarlı Mahallesi Sahilyolu No:18, 34140 Seyhan/Adana"
+  },
+  {
+   "name": "Özel Epc Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Çukurova",
+   "address": "Yüzüncüyıl Mh Carrefoursa Avm Yanı, 100. Yıl Mah, 85019. Sk. No:8, 01360 Çukurova/Adana"
+  },
+  {
+   "name": "Özel Medicalpark Adana Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Seyhan",
+   "address": "Atatürk Cad. No:23 Seyhan/Adana"
+  },
+  {
+   "name": "Özel Medicalpark Seyhan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Seyhan",
+   "address": "Namık Kemal Mah. Mustafa Kemal Paşa Blv. No:15 Seyhan/Adana"
+  },
+  {
+   "name": "Özel Medline Hastanesi Adana",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Çukurova",
+   "address": "Belediye Evleri Turgut Özal Bulvarı No:234 01170 Çukurova/Adana"
+  },
+  {
+   "name": "Özel Ortadoğu Sağlık Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Adana",
+   "district": "Seyhan",
+   "address": "Ziyapaşa Mahallesi 67055. Sokak No:1 Seyhan/Adana"
+  },
+  {
+   "name": "Özel Sevgi Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Adana",
+   "district": "Seyhan",
+   "address": "Gazipaşa Mah. Mustafa Kemal Paşa Blv. No:25/1 Seyhan/Adana"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Adana Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Adana",
+   "district": "Yüreğir",
+   "address": "Dr. Mithat Özsan Bulvarı Kışla Mahallesi 4522 Sokak No:1 Yüreğir/Adana"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Adıyaman Üniversitesi E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Adıyaman",
+   "district": "Merkez",
+   "address": "Yunus Emre Mahallesi 1164 Sokak No:13 Merkez/Adıyaman"
+  },
+  {
+   "name": "Afyonkarahisar Özel Fuar Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Afyonkarahisar",
+   "district": "",
+   "address": "Yenice Mahallesi, Fuar Alanı, 03030 Afyonkarahisar Merkez/Afyon"
+  },
+  {
+   "name": "Afyonkarahisar Sağlık Bilimleri Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Afyonkarahisar",
+   "district": "Merkez",
+   "address": "Dörtyol Mahallesi 2070 Sok. 3/4 03218 Merkez/Afyonkarahisar"
+  },
+  {
+   "name": "Özel Dr. Fatih Öğüç Fertillife Afyon Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Afyonkarahisar",
+   "district": "Merkez",
+   "address": "Dervişpaşa Mah. Abdullah Göbeloğlu Cad. No:10 Merkez/Afyonkarahisar"
+  },
+  {
+   "name": "Özel Parkhayat Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Afyonkarahisar",
+   "district": "",
+   "address": "Hasan Karaağaç Mahallesi Turgut Özal Caddesi No No:37 03100 Afyonkarahisar"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Afyonkarahisar Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Afyonkarahisar",
+   "district": "Merkez",
+   "address": "Orhangazi Nedim Helvacıoğlu Cad. No:73 03030 Merkez/Afyonkarahisar"
+  },
+  {
+   "name": "Ankara Ufuk Üniversítesi Tıp Fakültesi Sağlık Araştırma Uygulama Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Kızılırmak, Ufuk Ünv. Cd No:1, 06510 Çankaya/Ankara"
+  },
+  {
+   "name": "Ankara Üniversitesi Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Ankara",
+   "district": "Yenimahalle",
+   "address": "Emniyet Mah. Mevlana Blv. No:19/1 Yenimahalle/Ankara"
+  },
+  {
+   "name": "Ankara Üniversitesi Cebeci Araştırma ve Uygulama Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Ankara",
+   "district": "Mamak",
+   "address": "Balkiraz Mah. Tıp Fakültesi Cad. No: 1/4 Dikimevi- Mamak/Ankara"
+  },
+  {
+   "name": "Ankara Üniverstesi Tıp Fakültesi İbni Sina Araştırma ve Uygulama Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Ankara",
+   "district": "",
+   "address": "Ankara Üniversitesi Tıp Fakültesi Morfoloji Yerleşkesi Sihhiye PK 06100 /Ankara"
+  },
+  {
+   "name": "Başkent Üniversitesi Ankara Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Yukarı Bahçelievler Mahallesi Mareşal Fevzi Çakmak Caddesi No:45 06490 Çankaya/Ankara"
+  },
+  {
+   "name": "Başkent Üniversitesi Diş Hekimliği Fakültesi Uygulama Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "11. Sokak No:26 Bahçelievler-Çankaya/Ankara"
+  },
+  {
+   "name": "Gazi Üniversitesi Sağlık Araştırma ve Uygulama Merkezi Gazi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Ankara",
+   "district": "Yenimahalle",
+   "address": "Yenimahalle İlçesi Emniyet Mahallesi Mevlana Bulvarı No:89 06560 Yenimahalle/Ankara"
+  },
+  {
+   "name": "Hacettepe Üniversitesi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Hacettepe Mahallesi Adnan Saygun Caddesi Sıhhiye Çankaya/Ankara"
+  },
+  {
+   "name": "Hacettepe Üniversitesi İhsan Doğramacı Çocuk Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Ankara",
+   "district": "Altındağ",
+   "address": "Hacettepe İhsan Doğramacı Çocuk Hastanesi Sıhhiye Altındağ/Ankara"
+  },
+  {
+   "name": "Hacettepe Üniversitesi Onkoloji Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Ankara",
+   "district": "Altındağ",
+   "address": "Hacettepe Onkoloji Hastanesi Sıhhiye / Altındağ/Ankara"
+  },
+  {
+   "name": "Lokman Hekim Üniversitesi Ağız Ve Diş Sağlığı Uygulama Ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Söğütözü Mah. 9 Eylül Cad. 2179. Sokak B Blok No: 4 Çankaya/Ankara"
+  },
+  {
+   "name": "Medipol Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Eti Mah. Celal Bayar Blv. No:88/1 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel A Life Park Hospital Ankara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Etimesgut",
+   "address": "Elvan Mahallesi 1935. Sokak No:5 Etimesgut/Ankara"
+  },
+  {
+   "name": "Özel A Life Park Hospital Kuzey Ankara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Pursaklar",
+   "address": "Fatih Mah. Yavuz Bulvarı Cad. No: 15 Pursaklar/Ankara"
+  },
+  {
+   "name": "Özel Acıbadem Ankara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Yukarı Dikmen Mahallesi 630. Sokak No:6 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Acıbadem Bayındır Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Kızılırmak Mahallesi 1443. Caddesi No:17 Söğütözü Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Acıbadem Bayındır Kavaklıdere Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Remzi Oğuz Arık Mahallesi Atatürk Bulvarı No:201 Kavaklıdere Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Ankara Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Aşağı Öveçler Mahallesi 1332. Cadde No:15 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Ankara Güven Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Kavaklıdere Mahallesi Şimşek Sokak No:29 06540 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Ankara Medicalpark Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Yenimahalle",
+   "address": "Kent Koop. Mahallesi 1868. Sokak No:15 Batıkent Yenimahalle/Ankara"
+  },
+  {
+   "name": "Özel Ankara Tüp Bebek Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Çetin Emeç Bulvarı Lizbon Cad. No:2/A Öveçler Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Ankara Uluslararası Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Keçiören",
+   "address": "Anavatan Cad. Köşk Mah. No:20 Keçiören/Ankara"
+  },
+  {
+   "name": "Özel Bilgi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Yenimahalle",
+   "address": "İnönü Mahallesi Batı Bulvarı No:99, 06370 Batıkent Yenimahalle/Ankara"
+  },
+  {
+   "name": "Özel Çankaya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Barbaros Mahallesi Bülten Sokak No:44, 06700 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Çankaya Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Birlik Mahallesi Şehit Kurbani Akboğa Sokak No:26 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Demirtepe Lıfe Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Özveren Cad. No:17 Kızılay Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Dünya Göz Hastanesi Ankara",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Tunus Caddesi No:28 Kavaklıdere Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Dünya Göz Tıp Merkezi Keçiören",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Keçiören",
+   "address": "Güçlükaya Mahallesi Kızlarpınarı Caddesi No:7 Keçiören/Ankara"
+  },
+  {
+   "name": "Özel Engin Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Emek Mahallesi Şehit Meryem Yılmaztürk Caddesi No:13 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Era Göz Hastalıkları Merkezi Sincan",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Sincan",
+   "address": "Ahi Evran Mahallesi Ayaş Caddesi No:47/B Sincan/Ankara"
+  },
+  {
+   "name": "Özel Güven Çayyolu Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Alacaatlı Mah. Alacaatlı Cad. No:15/F-G Çankaya / Ankara"
+  },
+  {
+   "name": "Özel HC International Clinic Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Aziziye Mah. Hoşdere Cad. No:147 Çankaya / Ankara"
+  },
+  {
+   "name": "Özel HLC Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Kazım Özalp Mahallesi Uğur Mumcu Caddesi No:6 G.O.P. 06680 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel İnkılap Özkaya Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "İnkılap Sokak No:27 Kızılay Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Koru Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Kızılırmak Mahallesi 1450.Sokak No:13 Balgat Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Koru Kavaklıdere Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Barbaros Mahallesi Büklüm Caddesi No:72 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Koru Sincan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Sincan",
+   "address": "Akşemsettin Mahallesi Huzur Sokak No:1 Sincan/Ankara"
+  },
+  {
+   "name": "Özel Kudret Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Barbaros Mahallesi John F. Kennedy Caddesi No:71 Kavaklıdere Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Kudret International Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "",
+   "address": "Maltepe Mallesi GMK Bulvarı No:81 Maltepe Çankaya /"
+  },
+  {
+   "name": "Özel Liv Hospital Ankara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Bestekâr Sokak No:8 Kavaklıdere Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Lokman Hekim Akay Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Kavaklıdere Mahallesi Büklüm Sokağı No:4 06700 Kavaklıdere Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Lokman Hekim Etlik Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Keçiören",
+   "address": "Etlik Mahallesi Gn. Dr. Tevfik Sağlam Caddesi No:119 06010 Keçiören/Ankara"
+  },
+  {
+   "name": "Özel Lokman Hekim Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Sincan",
+   "address": "Andiçen Mahallesi Oğuz Yılmaz Cad. No:44 Sincan/Ankara"
+  },
+  {
+   "name": "Özel Lösante Çocuk ve Yetişkin Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Gölbaşı",
+   "address": "Kızılcaşar Mahallesi 2705. Cadde No:20 İncek Gölbaşı/Ankara"
+  },
+  {
+   "name": "Özel Madalyon Psikiyatri Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Remzi Oğuz Arık Mah. Atatürk Bulvarı No:229 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Medicana International Ankara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Söğütözü Mahallesi Söğütözü Caddesi Eskişehir Yolu Üzeri No:6 06510 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Mediest International Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Çukurambar Mah. Erol Yaşar Türkalp Cad. No:19 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Medipark Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Reşit Galip Cad. No:10 Küçükesat- Çankaya / Ankara"
+  },
+  {
+   "name": "Özel Medisun Çayyolu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Mutlukent Mah. 1920. Cad. No:61 Çankaya / Ankara"
+  },
+  {
+   "name": "Özel Memorial Ankara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Mevlana Bulvarı 1422. Sokak No:4 Balgat/Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Natomed Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Mamak",
+   "address": "Tuzluçayır Mahallesi Natoyolu Caddesi No:55 Mamak/Ankara"
+  },
+  {
+   "name": "Özel Ortadoğu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Yenimahalle",
+   "address": "Gayret Mahallesi İvedik Caddesi No:61 06170 İvedik Osb/Yenimahalle/Ankara"
+  },
+  {
+   "name": "Özel Özkaya Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Milli Müdafaa Caddesi No:16 Kat:1-2-3-4-5 Kızılay Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Uluğ Bey Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Mutlukent Mah. Fesleğen Sok. No:25 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Veni Vidi Göz Hastalıkları Merkezi Çankaya",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Ziyabey Cad. 1421. Sok. No:9/1 Balgat Çankaya/Ankara"
+  },
+  {
+   "name": "Özel VM Medicalpark Ankara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Keçiören",
+   "address": "Kalaba Mah. 30. Sok. No: 5 Keçiören/Ankara"
+  },
+  {
+   "name": "Özel Yeni Med Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Dikmen Cad. No:395 Çankaya/Ankara"
+  },
+  {
+   "name": "Özel Yüzüncüyıl Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Muhsin Yazıcıoğlu Cad. No:54 Yüzüncüyıl Balgat Çankaya/Ankara"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Ankara Beytepe Murat Erdi Eker Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Ahlatlıbel Mah. 1746. Sok. No:1 Beytepe Çankaya/Ankara"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Ankara Bilkent Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Çankaya İlçesi Üniversiteler Mah. Bilkent Cad. No:1 Çankaya/Ankara"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Ankara Etlik Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ankara",
+   "district": "Keçiören",
+   "address": "Varlık Mah. Halil Sezai Erkut Cad. No:5 Etlik Keçiören/Ankara"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Ankara Yıldırım Beyazıt Üniversitesi Yenimahalle E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ankara",
+   "district": "Yenimahalle",
+   "address": "Yeni Batı Mahallesi 2026. Cadde 2367. Sokak No: 4 Batıkent Yenimahalle/Ankara"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Etimesgut Şehit Sait Ertürk Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ankara",
+   "district": "",
+   "address": "Etimesgut Şehit Sait Ertürk Devlet Hastanesi, İstasyon Mah Leylak Cad, Ulubatlı Hasan Cd No: 5, 06790"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Osmanlı Ağız Ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "Ankara",
+   "district": "Yenimahalle",
+   "address": "Osmanlı Ağız Ve Diş Sağlığı Merkezi Mehmet Akif Ersoy Mah. Sami Efendi Cad. No:56 Demetevler Yenimahalle/Ankara"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Ankara Dr.Abdurrahman Yurtaslan Onkoloji E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ankara",
+   "district": "Yenimahalle",
+   "address": "Mehmet Akif Ersoy Mahallesi 13. Cadde no:56 Yenimahalle/Ankara"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Ankara Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ankara",
+   "district": "Altındağ",
+   "address": "Şükriye Mahallesi Ulucanlar Caddesi No:89 Altındağ/Ankara"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Ankara Gülhane E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ankara",
+   "district": "Keçiören",
+   "address": "General Tevfik Sağlam Cad. Etlik-Keçiören/Ankara"
+  },
+  {
+   "name": "Tobb Etü Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Ankara",
+   "district": "Çankaya",
+   "address": "Yaşam Caddesi No:5 Söğütözü 06510 Çankaya/Ankara"
+  },
+  {
+   "name": "Akdeniz Üniversitesi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Antalya",
+   "district": "Konyaaltı",
+   "address": "Pınarbaşı Mah. Dumlupınar Blv Akdeniz Üniversitesi Hastanesi KonyaaltI/Antalya"
+  },
+  {
+   "name": "Antalya Başkent Üniversitesi Alanya Uygulama Ve Araşt.Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Antalya",
+   "district": "Alanya",
+   "address": "Saray Mah. Yunus Emre Cad. No: 1 Alanya/Antalya"
+  },
+  {
+   "name": "Özel Akdeniz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Manavgat",
+   "address": "Sorgun Mahallesi 8151 Sk.No:10 Manavgat/Antalya"
+  },
+  {
+   "name": "Özel Akdeniz Sağlık Vakfı (Asv) Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Gebizli Mah. 1116 Sok. No:4 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Akdeniz Şifa Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Kepez",
+   "address": "Kuzey Yaka Mahallesi Varsak Köprüsü Yeşilırmak Caddesi No:367 07060 Kepez/Antalya"
+  },
+  {
+   "name": "Özel Akdeniz Şifa Konyaaltı Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Konyaaltı",
+   "address": "Kuşkavağı Mahallesi Atatürk Bulvarı No: 81 Konyaaltı/Antalya"
+  },
+  {
+   "name": "Özel Alanya Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Alanya",
+   "address": "Şekerhane Mahallesi Refik Bakalım Caddesi No:3 07400 Alanya/Antalya"
+  },
+  {
+   "name": "Özel Anatolia Hospital Alanya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Alanya",
+   "address": "Kadıpaşa Mahallesi Stad Caddesi 28/A 07400 Alanya/Antalya"
+  },
+  {
+   "name": "Özel Anatolia Hospital Aspendos Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Serik",
+   "address": "Orta Mah. Eminceler 14. Sok. No:6 Serik/ANTALYA"
+  },
+  {
+   "name": "Özel Anatolia Hospital Lara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Güzeloba Mahallesi Havaalanı Caddesi 07230 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Anatolia Hospital Side Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Manavgat",
+   "address": "Yalı Mahallesi Side Bulvarı No:55 Manavgat/Antalya"
+  },
+  {
+   "name": "Özel Antalya Amerikan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Çaybaşı Mahallesi 1352 Sokak No:8 07100 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Antalya Opera Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Cumhuriyet Mahallesi No:629 Sokak No:16 07160 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Antalya Tüp Bebek Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "",
+   "address": "Kanal Mahallesi Halide Edip Caddesi No:7 07080 Antalya"
+  },
+  {
+   "name": "Özel Antalya Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Şirinyalı Mahallesi 1487 Sokak No:4 07160 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Belek Mmt Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Serik",
+   "address": "Kadriye Mahallesi 80. Sokak No: 1 Serik/Antalya"
+  },
+  {
+   "name": "Özel Dünya Göz Hastanesi Antalya",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Kepez",
+   "address": "Zafer Mahallesi Yıldırım Beyazıt Caddesi No:93 07020 Kepez/Antalya"
+  },
+  {
+   "name": "Özel Era Göz Tıp Merkezi Antalya",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Varlık Mahallesi 172 Sokak Yüzüncüyıl Bulvarı No:11/1,2,3 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Fizikalya Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Yeşilbahçe Mah. Çınarlı Cad. No:15 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Hisar Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Manavgat",
+   "address": "Mimar Sinan Mah. Hasan Fehmi Boztepe Cad. No:157 Manavgat/Antalya"
+  },
+  {
+   "name": "Özel Kemer Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Kemer",
+   "address": "Merkez Mahallesi Lise Caddesi No:26 Kemer/Antalya"
+  },
+  {
+   "name": "Özel Lazer Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Alanya",
+   "address": "Oba Mah. Eski Gazipaşa Cad. No: 30 626 Ada/7 Parsel Alanya/Antalya"
+  },
+  {
+   "name": "Özel Manavgat Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Manavgat",
+   "address": "Kavaklı Mahallesi Hasan Fehmi Boztepe Caddesi No:176 07600 Manavgat/Antalya"
+  },
+  {
+   "name": "Özel Medicalpark Antalya Hastane Kompleksi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Fener Mahallesi Tekelioğlu Caddesi No:7 07160 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Mediface Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Çağlayan Mahallesi Bülent ECEVİT Blv. 2044. Sok. No:171 Muratpaşa /Antalya"
+  },
+  {
+   "name": "Özel Medikum Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Kumluca",
+   "address": "Hacıveliler Mah. Merkez Sk. No: 2 Kumluca/Antalya"
+  },
+  {
+   "name": "Özel Medstar Antalya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Yıldız Mah. Çakırlar Cad. No:19 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Medstar Topçular Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "",
+   "address": "Tarım Mahallesi Perge Bulvarı No:19 Muratpaşa - Antalya"
+  },
+  {
+   "name": "Özel Memorial Antalya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Kepez",
+   "address": "Zafer Mahallesi Yıldırım Beyazıt Caddesi No:91 07020 Kepez/Antalya"
+  },
+  {
+   "name": "Özel Ofm Antalya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Kepez",
+   "address": "Yükseliş Mahallesi Mehmet Akif Caddesi No:96 07025 Kepez/Antalya"
+  },
+  {
+   "name": "Özel Olimpos Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Konyaaltı",
+   "address": "Öğretmenevleri Mahallesi Çamlık Caddesi 460 Sk. No : 48 Konyaaltı /Antalya"
+  },
+  {
+   "name": "Özel Orbit Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Etiler Mah.882 Cad., Bina No: 5 Muratpaşa/ Antalya"
+  },
+  {
+   "name": "Özel Rich Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Kızıltoprak Mahallesi 921. Sokak No:45 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Terapi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Kepez",
+   "address": "Fabrikalar Mahallesi 3024 Sokak No:13 Kepez/Antalya"
+  },
+  {
+   "name": "Özel Uncalı Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Konyaaltı",
+   "address": "Molla Yusuf Mahallesi 1425. Sokak No: 9 07070 Uncalı Konyaaltı /Antalya"
+  },
+  {
+   "name": "Özel Veni Vidi Göz Tıp Merkezi Antalya",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Şirinyalı Mahallesi Sinanoğlu Caddesi No:88/2 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Özel Vitale Kadın Hastalıkları ve Doğum Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Antalya",
+   "district": "Kepez",
+   "address": "Kanal Mah. Halide Edip Cad. No:5 Kepez/Antalya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Alanya Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Antalya",
+   "district": "Alanya",
+   "address": "Oba Mahallesi Fidanlık Caddesi 07400 Alanya/Antalya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Antalya Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Antalya",
+   "district": "Kepez",
+   "address": "Göçerler Mahallesi 5379. Sokak Kepez/ Antalya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Finike Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Antalya",
+   "district": "Finike",
+   "address": "Sahilkent Mah. Akdeniz Bulvarı No:302 Finike/Antalya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Kepez Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Antalya",
+   "district": "",
+   "address": "Hüsnü Karakaş Mah Güneş Cad No:124/1 Kepez /"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Antalya Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Varlık Mahallesi Kazım Karabekir Caddesi 07100 Muratpaşa/Antalya"
+  },
+  {
+   "name": "Üniversitesi Ağız Diş Sağlığı Uygulama ve Araştırma Merkezi Bilim Antalya",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Antalya",
+   "district": "Muratpaşa",
+   "address": "Tahıl Pazarı Mah.Kazım Özalp Cad.Adnan Menderes Bulvarı No:84 Kat:9 Muratpaşa /Antalya"
+  },
+  {
+   "name": "Özel Ada Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Aydın",
+   "district": "",
+   "address": "Hacı Feyzullah Mah. Koçtaş Yolu Sok. No: 8 Kuşadası/"
+  },
+  {
+   "name": "Özel Egemed Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Aydın",
+   "district": "Söke",
+   "address": "Yenicamii Mah. Nihat Aşkın Cad. No:9 Söke/Aydın"
+  },
+  {
+   "name": "Özel Egemed Kuşadası Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Aydın",
+   "district": "Kuşadası",
+   "address": "Türkmen Mah. Ant Sok. No:23 Kuşadası/Aydın"
+  },
+  {
+   "name": "Özel Medinova Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Aydın",
+   "district": "Efeler",
+   "address": "Efeler Mah. Dr. Serkan Kurnaz Cad. No:13 Efeler/Aydın"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Aydın Ağız Ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "Aydın",
+   "district": "Efeler",
+   "address": "Zeybek Mah. İzmir Blv. No:58/A Efeler/Aydın"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Aydın Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Aydın",
+   "district": "Efeler",
+   "address": "Şevketiye Mah. 2584 Sk No: 2 Efeler/Aydın"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Didim Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Aydın",
+   "district": "Didim",
+   "address": "Cumhuriyet Mahallesi No: 303, 09270 Didim/Aydın"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Kuşadası Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Aydın",
+   "district": "",
+   "address": "Türkmen Mh.Hülya Koçyiğit Bulvarı No:13-1 Kuşadası/"
+  },
+  {
+   "name": "Bandırma Özel Royal Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Balıkesir",
+   "district": "Bandırma",
+   "address": "Paşakonak Mh:Sağlık Cd.No:16 Bandırma/Balıkesir"
+  },
+  {
+   "name": "Özel Nev Balıkesir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Balıkesir",
+   "district": "Karesi",
+   "address": "Paşaalanı Mahallesi 128. Sokak No:20 Karesi/Balıkesir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Balıkesir Atatürk Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Balıkesir",
+   "district": "Altıeylül",
+   "address": "Gaziosmanpaşa Mahallesi, 209. Sokak No:26, 10100 Altıeylül/Balıkesir"
+  },
+  {
+   "name": "Özel Aktıp Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bartın",
+   "district": "Merkez",
+   "address": "Kemerköprü Mah. Kadıoğlu Sok. 89. Cad. No:30 Merkez/Bartın"
+  },
+  {
+   "name": "Özel Batman Dünya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Batman",
+   "district": "",
+   "address": "Çamlıtepe Mah. TPAO Bulvarı No No:265 Batman"
+  },
+  {
+   "name": "Özel Batman Medicalpoint Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Batman",
+   "district": "Merkez",
+   "address": "Ziyagökalp Mah. Atatürk Bulv. No:79 ve 79A'nın 1.ve 2.Katı Merkez/Batman"
+  },
+  {
+   "name": "Özel Batman Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Batman",
+   "district": "Merkez",
+   "address": "Pınarbaşı Mh.2204 Sk. No: No:9 72060 Batman Merkez/Batman"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Tatvan Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Bitlis",
+   "district": "",
+   "address": "Karşıyaka Mahallesi Hastane Caddesi No:1 Tatvan Bitlis"
+  },
+  {
+   "name": "Özel Çağsu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bolu",
+   "district": "Merkez",
+   "address": "Sağlık Mah. Dodurga Cad. No:62/1 Merkez/Bolu"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bolu Abant İzzet Baysal Üniv. İzzet Baysal F.T.R. E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Bolu",
+   "district": "Karacasu",
+   "address": "Fatih Mahallesi İzzet Baysal Cad. Ihlamur sok. No:7 Karacasu/Bolu"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bolu Abant İzzet Baysal Üniversitesi İzzet Baysal EAH.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Bolu",
+   "district": "Merkez",
+   "address": "Karaköy Mah. Gölköy Kampüsü Merkez/Bolu"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bolu İzzet Baysal Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "Bolu",
+   "district": "Merkez",
+   "address": "Alpagut Mah. 3. Cad. No:59 Merkez/Bolu"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bolu İzzet Baysal Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Bolu",
+   "district": "",
+   "address": "Köroğlu Ünitesi Sağlık Mah. Şehitler Cad. No:20 Bolu"
+  },
+  {
+   "name": "Özel Acıbadem Bursa Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "Fatih Sultan Mehmet Bulvarı Sümer Sokak No:1 16110 Nilüfer/Bursa"
+  },
+  {
+   "name": "Özel Aritmi Osmangazi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Osmangazi",
+   "address": "Ulu Mahallesi Ulubatlı Hasan Bulvarı 48-62 16220 Osmangazi/Bursa"
+  },
+  {
+   "name": "Özel Bursa Özel Doruk Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Çekirge",
+   "address": "Zübeydehanım Caddesi No:5 Çekirge / Bursa"
+  },
+  {
+   "name": "Özel Bursa Romatem Fizik Tedavi ve Rehabilitasyon Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Osmangazi",
+   "address": "Sıcak Su Mevkii Gaziakdemir Mahallesi Dr. Rüştü Burlu Caddesi No: 20 Osmangazi / Bursa"
+  },
+  {
+   "name": "Özel Burtom Biyofiz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "Karaman Mahallesi Kültür Caddesi Biçen Sokak No:10 16130 Nilüfer/Bursa"
+  },
+  {
+   "name": "Özel Burtom Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "29 Ekim Mahallesi İzmir Yolu Caddesi No:412 Nilüfer/Bursa"
+  },
+  {
+   "name": "Özel Doruk Nilüfer Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "Konak Mah. Lefkoşe Cad. No:22 Nilüfer/Bursa"
+  },
+  {
+   "name": "Özel Doruk Yıldırım Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Yıldırım",
+   "address": "Ankara Caddesi No:235 Yıldırım/Bursa"
+  },
+  {
+   "name": "Özel Dünya Göz Bursa Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Osmangazi",
+   "address": "Kükürtlü Mahallesi Emirabdülkadir Sokak No:58 16080 Osmangazi/Bursa"
+  },
+  {
+   "name": "Özel Estetik International Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "Barış Mah. İzmir Yolu Cad. No:206 Nilüfer/Bursa"
+  },
+  {
+   "name": "Özel Hayat Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Osmangazi",
+   "address": "Elmasbahçeler Mah. Ankarayolu Cad. No:44 Osmangazi/BURSA"
+  },
+  {
+   "name": "Özel Konur Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Bursa",
+   "district": "Osmangazi",
+   "address": "Kükürtlü Mahallesi Zübeydehanım 12/1, 16000 Osmangazi/Bursa"
+  },
+  {
+   "name": "Özel Medicabil Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "1/A Mudanya Yolu Küre Sokak Fethiye Mahallesi 16140 Nilüfer/Bursa"
+  },
+  {
+   "name": "Özel Medicana Bursa Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "Odunluk Mahallesi İzmir Yolu Caddesi No:41 16110 Nilüfer/Bursa"
+  },
+  {
+   "name": "Özel Pembemavi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "Fethiye Mah. Ulu Cad. No: 1 Nilüfer/Bursa"
+  },
+  {
+   "name": "Özel Turan Turan Kemik Kas Eklem Sağlığı Yıldırım Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Bursa",
+   "district": "Yıldırım",
+   "address": "Şirinevler Mah. Ankarayolu Cad. No: 795/1A Yıldırım/Bursa"
+  },
+  {
+   "name": "Özel Vm Medicalpark Bursa Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Bursa",
+   "district": "Osmangazi",
+   "address": "Kırcaali Mahallesi Fevzi Çakmak Caddesi No:76 16220 Osmangazi/Bursa"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bursa Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Bursa",
+   "district": "Nilüfer",
+   "address": "Doğanköy Mah.16110 Nilüfer/Bursa"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Biga Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Çanakkale",
+   "district": "Biga",
+   "address": "Şirintepe Mahallesi, Kıbrıs Şehitleri Cd. No:146, 17200 Biga/Çanakkale"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Hitit Üniversitesi Çorum Erol Olçok E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Çorum",
+   "district": "Merkez",
+   "address": "Çepni Mahallesi İnönü Caddesi NO: 176 Merkez / ÇORUM"
+  },
+  {
+   "name": "Özel Denizli Cerrahi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Denizli",
+   "district": "Pamukkale",
+   "address": "Zeytinköy Mahallesi Acıpayan Bulvarı No:5 20070 Bağbaşı Pamukkale/Denizli"
+  },
+  {
+   "name": "Özel Nobel Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Denizli",
+   "district": "",
+   "address": "Karahayıt Mahallesi 120. Sağlık Sokak No: 5/1 20290 Pamukkale - Denizli"
+  },
+  {
+   "name": "Özel Odak Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Denizli",
+   "district": "Merkezefendi",
+   "address": "Otogar Karşısı Sümer Mahallesi İzmir Bulvarı No:18, 20020 Merkezefendi/Denizli"
+  },
+  {
+   "name": "Özel Sağlık Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Denizli",
+   "district": "Merkezefendi",
+   "address": "Bahçelievler Mahallesi 3007 Sokak No:23 Merkezefendi/Denizli"
+  },
+  {
+   "name": "Özel Tekden Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Denizli",
+   "district": "Merkezefendi",
+   "address": "Muratdede Mahallesi Karcı Yolu No:57 20010 Merkezefendi/Denizli"
+  },
+  {
+   "name": "Özel Vizyongöz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Denizli",
+   "district": "Merkez",
+   "address": "Sırakapılar Mahallesi 495 Sokak No: 7 20125 Merkez/Denizli"
+  },
+  {
+   "name": "Pamukkale Üniversitesi Sağlık Araştırma ve Uygulama Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Denizli",
+   "district": "Merkez",
+   "address": "Saraylar Mahallesi Hastane Caddesi No:36 20010 Merkez/Denizli"
+  },
+  {
+   "name": "Dicle Üniversitesi Ağız Ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Diyarbakır",
+   "district": "Sur",
+   "address": "Dicle Üniversitesi Diş Hekimliği Fakiiltesi Fetih Mah. Süleyman Demirel Bulv. 1.Sok.No: 1 Sur/Diyarbakır"
+  },
+  {
+   "name": "Dicle Üniversitesi Tıp Fakültesi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Diyarbakır",
+   "district": "Sur",
+   "address": "Dicle Üniversitesi Tıp Fakültesi Hastaneleri Başhekimliği Kampüs Sur/Diyarbakır"
+  },
+  {
+   "name": "Özel Bower Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Diyarbakır",
+   "district": "Yenişehir",
+   "address": "Yenişehir Mahallesi, Elazığ Cd. 2/9, 21100 Yenişehir/Diyarbakır"
+  },
+  {
+   "name": "Özel Dünyapark Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Diyarbakır",
+   "district": "Kayapınar",
+   "address": "Fırat Mah. 595. Sok. No:4 Kayapınar/Diyarbakır"
+  },
+  {
+   "name": "Özel Memorial Dicle Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Diyarbakır",
+   "district": "Kayapınar",
+   "address": "Fırat Mahallesi 507. Sokak No.150 21220 Kayapınar/Diyarbakır"
+  },
+  {
+   "name": "Özel Memorial Diyarbakır Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Diyarbakır",
+   "district": "Diclekent",
+   "address": "Peyas Mahallesi Fırat Bulvarı No:12 Diclekent/Diyarbakır"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Diyarbakır Gazi Yaşargil E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Diyarbakır",
+   "district": "Kayapınar",
+   "address": "Elazığ Yolu 10. Km Üçkuyular Mevkii 21070 Kayapınar/Diyarbakır"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Düzce Atatürk Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Düzce",
+   "district": "",
+   "address": "Aziziye Mah. Şehit Ramazan Gel Cad.No:7(81010) Düzce"
+  },
+  {
+   "name": "Özel Ekol Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Edirne",
+   "district": "",
+   "address": "Kocasinan Mahallesi Muammer Aksoy Caddesi Edirne"
+  },
+  {
+   "name": "Özel Keşan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Edirne",
+   "district": "",
+   "address": "Büyük Cami Mahallesi Zanaatkârlar Caddesi No:2 Keşan /"
+  },
+  {
+   "name": "Özel Trakya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Edirne",
+   "district": "Merkez",
+   "address": "Sarıcapaşa Mahallesi Talat Paşa Caddesi No:134 22030 Merkez/Edirne"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Edirne Sultan 1.Murat Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Edirne",
+   "district": "Merkez",
+   "address": "Hadımağa Mevkii Helvacısakaoğlu Sokak 22030 Merkez/Edirne"
+  },
+  {
+   "name": "Trakya Üniversitesi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Edirne",
+   "district": "Merkez",
+   "address": "Trakya Üniversitesi Balkan Yerleşkesi Merkez/Edirne"
+  },
+  {
+   "name": "Özel Universal Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Elazığ",
+   "district": "Merkez",
+   "address": "Sürsürü Mah. Malatya Cad. No:1 Merkez/Elazığ"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Elazığ Fethi Sekin Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Elazığ",
+   "district": "Merkez",
+   "address": "Sugözü Mah. 23350 Merkez/Elazığ"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Erzincan Binali Yıldırım Üniversitesi Mengücek Gazi E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Erzincan",
+   "district": "",
+   "address": "Karaağaç Mahallesi 13 Şubat Caddesi No:26/11 Merkez"
+  },
+  {
+   "name": "Atatürk Üniversitesi Sağlık Araştırma ve Uygulama Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Erzurum",
+   "district": "",
+   "address": "Atatürk Üniversitesi 25240 Erzurum"
+  },
+  {
+   "name": "Özel Buhara Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Erzurum",
+   "district": "Palandöken",
+   "address": "Palandöken Kavşağı Atatürk Bulvarı No:3 25100 Palandöken/Erzurum"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Erzurum Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Erzurum",
+   "district": "Yakutiye",
+   "address": "Atatürk Mahallesi Çat Yolu Caddesi 25070 Palandöken Yakutiye/Erzurum"
+  },
+  {
+   "name": "Eskişehir Osmangazi Üniversitesi Ağız ve Diş Sağlığı Merkezi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "Eskişehir",
+   "district": "Odunpazarı",
+   "address": "Eskişehir Osmangazi Üniversitesi Meşelik Yerleşkesi Odunpazarı/Eskişehir"
+  },
+  {
+   "name": "Eskişehir Osmangazi Üniversitesi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Eskişehir",
+   "district": "Odunpazarı",
+   "address": "Büyükdere Mahallesi Meşelik Yerleşkesi Odunpazarı/Eskişehir"
+  },
+  {
+   "name": "Özel Acıbadem Eskişehir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Eskişehir",
+   "district": "Tepebaşı",
+   "address": "Hoşnudiye Mahallesi S00734. Sokak No:19 26170 Eskibağlar Tepebaşı/Eskişehir"
+  },
+  {
+   "name": "Özel Eskişehir Anadolu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Eskişehir",
+   "district": "",
+   "address": "Akarbaşı Mahallesi Kıbrıs Şehitleri Caddesi No: 55"
+  },
+  {
+   "name": "Özel Eskişehir Göz Sağlığı ve Hastalıkları Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Eskişehir",
+   "district": "",
+   "address": "İstiklal Mahallesi Çınar Sokak No:6/1 Eskişehir"
+  },
+  {
+   "name": "Özel Fizyomer Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Eskişehir",
+   "district": "Tepebaşı",
+   "address": "Sazova Mh. Doğanay Sk. No: 1 Tepebaşı / Eskişehir,"
+  },
+  {
+   "name": "Özel Gürlife Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Eskişehir",
+   "district": "Tepebaşı",
+   "address": "Fevziçakmak Mahallesi Akınsel Sokak No:1 26230 Tepebaşı/Eskişehir"
+  },
+  {
+   "name": "Özel Ümit Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Eskişehir",
+   "district": "Tepebaşı",
+   "address": "Batıkent mah. Gerekli sok. No:13 Tepebaşı/Eskişehir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Eskişehir Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "Eskişehir",
+   "district": "Odunpazarı",
+   "address": "Yenikent Mahallesi Piri Reis Cd. No:28, 26050 Odunpazarı/Eskişehir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Eskişehir Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Eskişehir",
+   "district": "Odunpazarı",
+   "address": "71 Evler Mahallesi,Çavdarlar Sk. , 26080 Odunpazarı/Eskişehir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Eskişehir Yunus Emre Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Eskişehir",
+   "district": "Tepebaşı",
+   "address": "Uluönder mah. Fevzi Çakmak cad. No:1 Tepebaşı/Eskişehir"
+  },
+  {
+   "name": "Gaziantep Üniversitesi Şahinbey Araştırma ve Uygulama Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Gaziantep",
+   "district": "Şehitkamil",
+   "address": "Üniversite Bulvarı 27310 Şehitkamil/Gaziantep"
+  },
+  {
+   "name": "NCR International Hospital",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Mil",
+   "address": "Mücahitler Mahallesi Gazi Muhtar Paşa Bulvarı No:56 27090 Şehitkâmil/Gaziantep"
+  },
+  {
+   "name": "Özel Adn Internatıonal Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Nizip",
+   "address": "Mimar Sinan Mahallesi Niğbolu Sk. No:1 Nizip/Gaziantep"
+  },
+  {
+   "name": "Özel Bossan Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Şehitkamil",
+   "address": "Atakent Mah. 02015 Nolu Cad. No:8 Şehitkamil/Gaziantep"
+  },
+  {
+   "name": "Özel Defa Life Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Şahinbey",
+   "address": "Güneykent Mahallesi 216 Nolu Caddesi 74/1 Şahinbey/Gaziantep"
+  },
+  {
+   "name": "Özel Deva Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Şahinbey",
+   "address": "Bekirbey Mahallesi Tüfekçi Yusuf Bulvarı No:98 27100 Şahinbey/Gaziantep"
+  },
+  {
+   "name": "Özel Dünyagöz Hastanesi Gaziantep",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Mil",
+   "address": "Mücahitler Mahallesi Mücahitler Mahallesi Sani Konukoğlu Bulvarı No: 86 27090 Şehitkâmil/Gaziantep"
+  },
+  {
+   "name": "Özel Düztepe Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "",
+   "address": "Düztepe Mah. Özdemirbey Cd. Sadıklar Sokak No: 2 Şahinbey / GAZİANTEP"
+  },
+  {
+   "name": "Özel Gaziantep Medicalpoint Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Mil",
+   "address": "Mücahitler Mahallesi 52063 Sokak No:2 27584 Şehitkâmil/Gaziantep"
+  },
+  {
+   "name": "Özel Göz Nuru Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "",
+   "address": "Kolejtepe Mah.İnönü Cd. No.6/A Şahinbey-Gaziantep"
+  },
+  {
+   "name": "Özel Hatem Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Şahinbey",
+   "address": "Alleben Mahallesi Ulucami Karşısı Kemal Köker Caddesi No:41 27000 Şahinbey/Gaziantep"
+  },
+  {
+   "name": "Özel Liv Hospital Gaziantep Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Şehitkamil",
+   "address": "Seyrantepe Mahallesi 65112 Nolu Sok. No:2 Şehitkamil/Gaziantep"
+  },
+  {
+   "name": "Özel MMT Amerikan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Şahinbey",
+   "address": "Tepebaşı Mahallesi Emir Sokak 3/1 Şahinbey/Gaziantep"
+  },
+  {
+   "name": "Özel Sani Konukoğlu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Gaziantep",
+   "district": "Şehitkamil",
+   "address": "Değirmiçem Mah. 16049 Nolu Sk. No: 2/A Şehitkamil/Gaziantep"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Gaziantep 25 Aralık Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Gaziantep",
+   "district": "Şehitkamil",
+   "address": "Sarıgüllük Mah. Fevzi Çakmak Bulv. 27060 Şehitkamil/Gaziantep"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Gaziantep Şehitkamil Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Gaziantep",
+   "district": "Şehitkamil",
+   "address": "Pirsultan Mah., Çetin Emeç Cad., 27500 Şehitkamil/Gaziantep"
+  },
+  {
+   "name": "T.C.Sağlık Bakanlığı Gaziantep Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Gaziantep",
+   "district": "",
+   "address": "İbn-İ Sina Mh.400 Nolu Cadde 190011 Sok.No:2 Şahinbey"
+  },
+  {
+   "name": "T.C Sağlık Bakanlığı Hakkari Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Hakkari",
+   "district": "Merkez",
+   "address": "Dağgöl Mh. Gençlik Cd. No:2 Merkez/Hakkari"
+  },
+  {
+   "name": "Özel İskenderun Gelişim Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Hatay",
+   "district": "İskenderun",
+   "address": "Numune Mahallesi Dr. Sadık Ahmet Caddesi No:89, 31200 İskenderun/Hatay"
+  },
+  {
+   "name": "Isparta Süleyman Demirel Üniversitesi Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Isparta",
+   "district": "Merkez",
+   "address": "Çünür Mah. 102. Cad. No:250/15-1 Merkez/Isparta"
+  },
+  {
+   "name": "Özel Meddem Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Isparta",
+   "district": "Merkez",
+   "address": "Çünür Mahallesi 102. Cadde No:179 Merkez/Isparta"
+  },
+  {
+   "name": "Acıbadem Üniversitesi Özel Acıbadem Atakent Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Halkalı Merkez Mah. Turgut Özal Bulvarı No:16 Küçükçekmece/İSTANBUL"
+  },
+  {
+   "name": "Altıntepe Kızılay Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Maltepe",
+   "address": "Altıntepe Mah. Cihadiye Cad. No:40 Maltepe/İstanbul"
+  },
+  {
+   "name": "Asmed Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Atatürk Mah. Sedef Cad. No:1/1 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Avrasya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Zeytinburnu",
+   "address": "Beştelsiz Mahallesi 101 Sokak No:107 Zeytinburnu/İstanbul"
+  },
+  {
+   "name": "Bahçeşehir Üniversitesi Ağız Ve Diş Sağlığı Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Dikilitaş Mah. Yıldız Balmumcu Mevkii Barbaros Blv. No:153 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Bakırköy Kızılay Niyazi Mete-Ali Rıza Mete Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Zeytinlik Mah. Yakut Sok. No:19 Bakırköy/İstanbul"
+  },
+  {
+   "name": "Başkent Üniversitesi İstanbul Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Altunizade Mahallesi Kısıklı Caddesi Oymacı Sokak No:7 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Biruni Üniversitesi Diş Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Zeytinburnu",
+   "address": "Merkezefendi Mahallesi G/75 Sokak No:1-13 Zeytinburnu/İstanbul"
+  },
+  {
+   "name": "Biruni Üniversitesi Tıp Fakültesi Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Gültepe Mah. Halkalı Cad. No:99 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "Dünya Göz Etiler Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Etiler Nispetiye Caddesi Yanarsu Sokak No:1/3 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Dünya Göz Hastanesi Ataköy",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Zeytinlik Mahallesi Sahilyolu Kenedy Sokak No:18 Bakırköy/İstanbul"
+  },
+  {
+   "name": "İstanbul Atlas Üniversitesi Tıp Fakültesi Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Bağcılar",
+   "address": "Barbaros Mah. Hoca Ahmet Yesevi Cad. No:149 Bağcılar/İstanbul"
+  },
+  {
+   "name": "İstanbul Aydın Üniversitesi Ağız E Diş Sağlığı Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Beşyol Mah. İnönü Cad. Akasya Sok. No:6 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "İstanbul Aydın Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Beşyol Mahallesi Fabrikalar Caddesi No:3 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "İstanbul Beykent Üniversitesi Ağız Ve Diş Sağlığı Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Büyükçekmece",
+   "address": "Cumhuriyet Mahallesi Turgut Özal Bulvarı 147/1 Büyükçekmece/İstanbul"
+  },
+  {
+   "name": "İstanbul Beykent Üniversitesi Tıp Fakültesi Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Büyükçekmece",
+   "address": "Cumhuriyet Mah. Gürpınar Yolu Cad. Şafak Sok. No:1/1 (E Blok) Büyükçekmece/İstanbul"
+  },
+  {
+   "name": "İstanbul Bezmialem Vakıf Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Fatih",
+   "address": "İskenderpaşa Mahallesi Adnan Menderes Bulvarı (Vatan Cad.) 34093 Fatih / İstanbul"
+  },
+  {
+   "name": "İstanbul Kent Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Beyoğlu",
+   "address": "Cihangir Mah. Sıraselviler Cad. No:71 Beyoğlu/İstanbul"
+  },
+  {
+   "name": "İstanbul Maltepe Üniversitesi Tıp Fakültesi Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Maltepe",
+   "address": "Feyzullah Caddesi No.39 Maltepe/İstanbul"
+  },
+  {
+   "name": "İstanbul Medipol Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Maslak Çeşme Caddesi Tevfikbey Mahallesi No:30 Sefaköy/Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "İstanbul Okan Üniversitesi Diş Hekimliği Fakültesi Eğitim ve Uygulama Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Tuzla",
+   "address": "Aydıntepe Mah.Prof. Dr. Necmettin Erbakan Caddesi No:2 Tuzla/İstanbul"
+  },
+  {
+   "name": "İstanbul Okan Ünivesitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Tuzla",
+   "address": "İçmeler Mahallesi Aydemir Sokak Aydınoğlu Cad. No:2 Tuzla/İstanbul"
+  },
+  {
+   "name": "İstanbul Üniversitesi İstanbul Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "İstanbul",
+   "district": "Fatih",
+   "address": "İstanbul Tıp Fakültesi Çapa Hastanesi Millet Caddesi Topkapı Mah. Fatih/İstanbul"
+  },
+  {
+   "name": "İstanbul Üniversitesi Onkoloji Enstitüsü Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "İstanbul",
+   "district": "Fatih",
+   "address": "Topkapı Mah.Turgut Özal Millet Cad.Bina No: 118 Af İç Kapı No: 1 Fatih/ İstanbul"
+  },
+  {
+   "name": "İstanbul Üniversitesi-Cerrahpaşa Cerrahpaşa Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "İstanbul",
+   "district": "Fatih",
+   "address": "Cerrahpaşa Mahallesi Kocamustafa Paşa Caddesi Fatih/İstanbul"
+  },
+  {
+   "name": "İstanbul Yeditepe Üniversitesi Ağız ve Diş Sağlığı Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Bağdat Cad. No:238 Göztepe Kadıköy/İstanbul"
+  },
+  {
+   "name": "İstinye Üniversitesi Ağız ve Diş Sağlığı Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Sarıyer",
+   "address": "Ayazağa Mah. 215 Sok. No:10A/1 Sarıyer/İstanbul"
+  },
+  {
+   "name": "İstinye Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Esenyurt",
+   "address": "Aşık Veysel Mahallesi Süleyman Demirel Caddesi No:1 34517 Esenyurt /İstanbul"
+  },
+  {
+   "name": "İstinye Üniversitesi Tıp Fakültesi Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Gaziosmanpaşa",
+   "address": "Merkez Mah. Çukurçeşme Cad.Bina No: 51 Gaziosmanpaşa/ İstanbul"
+  },
+  {
+   "name": "Koç Üniversitesi Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Zeytinburnu",
+   "address": "Maltepe Mahallesi Topkapı Davutpaşa Caddesi D-100 Bağlantı Yolu No:4 Zeytinburnu/İstanbul"
+  },
+  {
+   "name": "Özel A Plus Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bahçelievler",
+   "address": "Kocasinan Merkez Mahallesi Mahmutbey Caddesi No:373- 375 Bahçelievler/İstanbul"
+  },
+  {
+   "name": "Özel Abat Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Beylikdüzü",
+   "address": "Kavaklı Mah. İbrahim Müteferrika Cad. Mesken No:3 Beylikdüzü/İstanbul"
+  },
+  {
+   "name": "Özel Academic Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Altunizade Mahal Nuh Kuyusu Cad. No:94 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Altunizade Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Altunizade Mahallesi Tophanelioğlu Cad. No:13 ve Yutcan Sok. No:1 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Ataşehir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Atatürk Mah. Turgut Özal Bulvarı No:11 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Ataşehir Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mahallesi Vedat Günyol Caddesi No:36 Ataşehir / İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Bakırköy Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Zeytinlik Mahallesi Halit Ziya Uşaklıgil Caddesi No: 1 34140 Bakırköy/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Bayındır İçerenköy Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "İçerenköy Mah. Ertaç Sok. No:17 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Dr. Şinasi Can Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Tekin Sokak No:8 Acıbadem Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Fulya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Dikilitaş Mahallesi Hakkı Yeten Caddesi Yeşilçimen Sokak No:23 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem International Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Yeşilköy Mahallesi, İstanbul Caddesi No:82, 34149 Bakırköy/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Kartal Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kartal",
+   "address": "Çavuşoğlu Mah. Sanayi Cad. No:1/1 Kartal/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Kozyatağı Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Ondokuz Mayıs Mahallesi İnönü Caddesi Okur Sokak No:20 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Maslak Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Sarıyer",
+   "address": "Darüşşafaka Mahallesi Büyükdere Caddesi No:40 Sarıyer/İstanbul"
+  },
+  {
+   "name": "Özel Acıbadem Taksim Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "İnönü Mahallesi Nizamiye Cad. No:1-9 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Aile Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bahçelievler",
+   "address": "Bahçelievler Mah. Begonyalı Sok. No: 7 Bahçelievler/İstanbul"
+  },
+  {
+   "name": "Özel Aktif International Hospital Bahçelievler Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bahçelievler",
+   "address": "Bahçelievler Mah. Deli Hüseyin Paşa Cad. Şevket Dağ Sok. No:2 Bahçelievler/İstanbul"
+  },
+  {
+   "name": "Özel Aktif İnternational Üsküdar Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Mimar Sinan Mahallesi Büyük Hamam Sokak Katlı Otopark Arkası No:18 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Alp Aslan Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Fulya Mahallesi Büyükdere Caddesi No:74-A/139 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Amerikan Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Bağdat Caddesi No 130 Feneryolu 34724 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Anadolu Sağlık Ataşehir Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Barbaros Mah.Ortabahar Sok.No:28 28/A Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Apeks Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Abide-i Hürriyet Cad. No:103 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Aslı Tarcan Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Zeytinburnu",
+   "address": "Maltepe Mahallesi Londra Asfaltı Caddesi Avrupa Konutları Ofis Blok 9 Apt. No:32/1 H Zeytinburnu/İstanbul"
+  },
+  {
+   "name": "Özel Asya Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Avcılar",
+   "address": "Cihangir Mahallesi E-5 Yanyol Londra Asfaltı No 237/ 1 Avcılar/İstanbul"
+  },
+  {
+   "name": "Özel Ataşehir Florence Nightıngale Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Işıklar Cad. No:35/A Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Avcılar Anadolu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Avcılar",
+   "address": "Mustafa Kemal Paşa Mahallesi Kayabaşı Sok.No:1/3 Avcılar/İstanbul"
+  },
+  {
+   "name": "Özel Avicenna Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Esenler",
+   "address": "Menderes Mah.307. Sok. No:2 ve Atışalanı Cad. No:25 Esenler/İstanbul"
+  },
+  {
+   "name": "Özel Avicenna Hastanesi Ataşehir",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mahallesi Kayışdağı Caddesi No:47 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Avicenna Umut Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kartal",
+   "address": "Üsküdar cad. No:45 Kartal/İstanbul"
+  },
+  {
+   "name": "Özel Avrasya Hastanesi Gaziosmanpaşa",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Gaziosmanpaşa",
+   "address": "Fevzi Çakmak Mahallesi Hekimsuyu Caddesi No:26 Gaziosmanpaşa/İstanbul"
+  },
+  {
+   "name": "Özel Başakşehir Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Başakşehir",
+   "address": "Başakşehir Mah. Emiroğlu Sok. 1. Etap No:1 Başakşehir/İstanbul"
+  },
+  {
+   "name": "Özel Başarı Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Gaziosmanpaşa",
+   "address": "Yeni Mahalle Hekimsuyu Caddesi No:53 Gaziosmanpaşa/İstanbul"
+  },
+  {
+   "name": "Özel Batı Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Sultangazi",
+   "address": "Yunus Emre Mah. Adem Yavuz Cad. 1619. Sok. No:2 Sultangazi/İstanbul"
+  },
+  {
+   "name": "Özel Batıgöz Sağlığı Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Altunizade Mahallesi Fahrettin Kerim Gökay Caddesi No:15/1 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Baypark Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bayrampaşa",
+   "address": "Yıldırım Mahallesi Ali Fuat Başgil Cad. No:112-114 Bayrampaşa/İstanbul"
+  },
+  {
+   "name": "Özel Bayrampaşa Kolan Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bayrampaşa",
+   "address": "Terazidere Mah. 60. Yıl Cad. No:3 Bayrampaşa/İstanbul"
+  },
+  {
+   "name": "Özel Beşiktaş İAC Aesthetic Center Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Balmumcu Mah. Bestekar Şevki Bey Sok. No:16-18 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Özel Beylikdüzü Kolan Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beylikdüzü",
+   "address": "Adnan Kahveci Mah. Osmanlı Cad. No: 23 Beylikdüzü/İstanbul"
+  },
+  {
+   "name": "Özel Birinci Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beylikdüzü",
+   "address": "Cumhuriyet Mah. Atatürk Blv. No:5 Beylikdüzü/İstanbul"
+  },
+  {
+   "name": "Özel CE Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Esenyurt",
+   "address": "Gökevler Mah. Adnan Kahveci Bulvarı No:23 Esenyurt/İstanbul"
+  },
+  {
+   "name": "Özel Coolest Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bağcılar",
+   "address": "Sancaktepe Mah. Birlik Cad. No:34 Bağcılar/İstanbul"
+  },
+  {
+   "name": "Özel Cosmedica Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Esentepe Mah. Kore Şehitleri Cad. No:2/1 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Çamlıca Erdem Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Kısıklı Mahallesi Alemdağ Caddesi Yanyol Sok. No:36 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Çamlıca Medicana Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Kısıklı Mah. Alemdağ Cad No: 103, 34692 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Çamlık Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Çekmeköy",
+   "address": "Çamlık Mahallesi Çiğdem Sokak No:1 34782 Dudullu Osb Çekmeköy/ İstanbul"
+  },
+  {
+   "name": "Özel Çengelköy Vanity Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Bahçelievler Mah. Zübeyde Hanım Cad. No:4 Çengelköy Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Delta Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Maltepe",
+   "address": "İdealtepe Mahallesi Akgüvercin Sokak No:4 Küçükyalı Maltepe/İstanbul"
+  },
+  {
+   "name": "Özel Dentistanbul Diş Hastanesi",
+   "type": "Özel Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Private dental hospital",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Yıldız Mahallesi Yıldız Caddesi No:71 34353 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Özel Doku Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Merkez Mah. İstiklal Sok. No:9 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Dora Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Fulya Mah. Yavuz Sok. No:7 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Dr. Cinik Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Gayrettepe Mah. Mevlüt Pehlivan Cad. No:23 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Duygu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Gaziosmanpaşa",
+   "address": "Cengiz Topel Caddesi No:167 Küçükköy Gaziosmanpaşa/İstanbul"
+  },
+  {
+   "name": "Özel Dünya Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Altunizade Mah. Shibuya Sok. No:7 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Dünya Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Büyükçekmece",
+   "address": "Cumhuriyet Mah. Şimşek Sok. Kaya Milenyum İş Merkezi No:45-46-47-48 Büyükçekmece/İstanbul"
+  },
+  {
+   "name": "Özel Dünya Göz Tıp Merkezi Suadiye",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "",
+   "address": "Suadiye Mah. Kazım Özalp Sok. No:25/A Kadıköy/"
+  },
+  {
+   "name": "Özel Dünya Göz Tıp Merkezi/Ataşehir",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mah. Işıklar Cad. No:25 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Dünya Göz Tıp Merkezi/Pendik",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Doğu Mahallesi Ortanca Sokak No:79 Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Dünyagöz Tıp Merkezi/Bağcılar",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bağcılar",
+   "address": "İnönü Mahallesi Hoca Ahmet Yesevi Caddesi No:13 Bağcılar/İstanbul"
+  },
+  {
+   "name": "Özel Düzey Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Avcılar",
+   "address": "Cihangir Mah. Sulukuyu Sok. No:2/2 Avcılar/İstanbul"
+  },
+  {
+   "name": "Özel Efc Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Tevfikbey Mahallesi 2321. Sk. No:4 34295 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "Özel Elit İstanbul Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Basınköy Mah. Florya Cad. Yan Sok. No:1 Bakırköy/İstanbul"
+  },
+  {
+   "name": "Özel Elit Klinik Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kağıthane",
+   "address": "Hamidiye Mah. Cendere Cad. No:103/3-1 Kağıthane/İstanbul"
+  },
+  {
+   "name": "Özel Emar Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Harbiye Mah.Maçka Cad.No:3/A Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Emsey Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Çamlık Mahallesi Selçuklu Caddesi No:22 34912 Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Erdem Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ümraniye",
+   "address": "Alemdağ Caddesi Sezer Sokak No:3-5 Ümraniye/İstanbul"
+  },
+  {
+   "name": "Özel Esencan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Esenyurt",
+   "address": "Bağlarçeşme Mahallesi 19 Mayıs Bulvarı No:18 Esenyurt/İstanbul"
+  },
+  {
+   "name": "Özel Esenler Ensar Hastanesi Avicenna",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Esenler",
+   "address": "Atışalanı Birlik Mah. 835. Sok. No:2 Esenler/İstanbul"
+  },
+  {
+   "name": "Özel Est-Ethica Ataşehir Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mah. Işıklar Cad. No:28 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Estecenter Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Fulya Mahallesi Hakkı Yeten Caddesi Kıvanç Sokak No:24, 34394 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Estetik International Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Fulya Mah. Büyükdere Cad. No:76 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Esteworld Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Altunizade Mahallesi Kısıklı Caddesi No:7 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Eyestar Göz Hastalıkları Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Beyoğlu",
+   "address": "Kocatepe Mah. Cumhuriyet Cad. Ceylan Apt. No:27/1-2 Beyoğlu/İstanbul"
+  },
+  {
+   "name": "Özel Florya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Avcılar",
+   "address": "Gümüşpala Mahallesi İskeçe Caddesi No:64 Avcılar/İstanbul"
+  },
+  {
+   "name": "Özel Gayrettepe Florence Nightingale Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Gayrettepe Mahallesi Cemil Aslan Güder Sokak No:8 Gayrettepe Beşiktaş /İstanbul"
+  },
+  {
+   "name": "Özel Göz Nurunu Koruma Vakfı Bayrampaşa Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bayrampaşa",
+   "address": "Yenidoğan Mah. Abdi İpekçi Cad. No:89 Bayrampaşa/İstanbul"
+  },
+  {
+   "name": "Özel Güneşli Erdem Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bağcılar",
+   "address": "Güneşli Mahallesi Fevzi Çakmak Caddesi No:72-74 Bağcılar/İstanbul"
+  },
+  {
+   "name": "Özel Halıcıoğlu Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Beyoğlu",
+   "address": "Piripaşa Mah. Kumbarhane Cad. No:46 Beyoğlu/İstanbul"
+  },
+  {
+   "name": "Özel Hayat Şifa Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Bahçelievler Mah. Aydınlıyolu Cad. Zıpkın Sok. No:10 Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Hisar Çamlıca Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ümraniye",
+   "address": "Namık Kemal Mah. Cengiz Topel Cad. No:90 Ümraniye/İstanbul"
+  },
+  {
+   "name": "Özel Hisar Intercontinental Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ümraniye",
+   "address": "Saray Mahallesi Site Yolu Caddesi No:7 34768 Ümraniye/İstanbul"
+  },
+  {
+   "name": "Özel İstanbul Bölge Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Sancaktepe",
+   "address": "Sarıgazi Mah.Osmangazi Cd.No:34 Sancaktepe / İstanbul"
+  },
+  {
+   "name": "Özel İstanbul Cerrahi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Teşvikiye Mahallesi Ferah Sokak No:22 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel İstanbul Florence Nightingale Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Merkez Mahallesi Abide-İ Hürriyet Caddesi No:166, 34381 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel İstanbul Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Atatürk Mahallesi Pazaryolu Sokak No:30 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "Özel İstanbul Medipol Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Koşuyolu Mahallesi Lambacı Sokak No:2/1 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel İstanbul Tema Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Atakent Mahallesi 4. Cadde No:36 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "Özel Jinepol ÜYTE Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Levent",
+   "address": "Nispetiye Mahallesi Aytar Caddesi Başlık Sokak No:1/B Levent /İstanbul"
+  },
+  {
+   "name": "Özel Kadıköy Florence Nightingale Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Kızıltoprak Bağdat Cad. No:63 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Kardelen Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Maltepe",
+   "address": "Girne Mah. Başöğretmen Cad. No: 31 Maltepe/İstanbul"
+  },
+  {
+   "name": "Özel Kartal Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kartal",
+   "address": "Petrol İş Mah. Üsküdar Cad. No:94 Kartal/İstanbul"
+  },
+  {
+   "name": "Özel Kaş Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bağcılar",
+   "address": "Güneşli Mah. Evren Cad. No:10 Bağcılar/İstanbul"
+  },
+  {
+   "name": "Özel Kızılay Kağıthane Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ğıthane",
+   "address": "Merkez Mahallesi Çobançeşme Caddesi Burcu Sokak No:9 Kâğıthane/İstanbul"
+  },
+  {
+   "name": "Özel Kozyatağı Central Hospital Ataşehir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mahallesi Kayışdağı Caddesi No:57/A Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Kozyatağı Central Hospital Etiler Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Nispetiye Mahallesi Aydın Sok. No:1 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Özel Kozyatağı Central Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Kocayol Caddesi Kozyatağı Sokak No:19/1 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Kurtköy Ersoy Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Kurtköy Mahallesi Ankara Caddesi No:390/3 Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Küçükçekmece Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Yeni Mahalle İnönü Cad. No:140 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "Özel Levent Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kağıthane",
+   "address": "Ortabayır Mahallesi Oto Caddesi No:3 Kağıthane/İstanbul"
+  },
+  {
+   "name": "Özel Lifemed Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Göztepe Mah. Bağdat Cad. No:191/A Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Liv Hospital Ulus Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Ortaköy Mahallesi Canan Sokak No:5 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Özel Liv Hospital Vadi İstanbul Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Sarıyer",
+   "address": "Ayazağa Mahallesi Kemerburgaz Caddesi No:7 F Sarıyer/İstanbul"
+  },
+  {
+   "name": "Özel Lokman Hekim İstanbul Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Yenişehir Mahallesi Kardelen Sokak No:2 Kurtköy Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Madalyon Psikiyatri Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Karanfil Sok. No:5 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Özel Maya Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Nisbetiye Mah.Başlık Cad.Bina No: 3 Beşiktaş/ İstanbul"
+  },
+  {
+   "name": "Özel Mecidiyeköy Çevre Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Mecidiyeköy Cemal Şair Sok. No:2 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Medıcalpark Tem Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Sultangazi",
+   "address": "Yunus Emre Mah. LütfiAykaç Blv. No:80G K:1 Bağımsız Bölüm 1 Sultangazi/İstanbul"
+  },
+  {
+   "name": "Özel Medica Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Hüsrev Gerede Cad. No:75 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Medicalpark Ataşehir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Kayışdağı, Raci Cd. No:1, 34755 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Medicalpark Bahçelievler Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Bahçelievler",
+   "address": "Bahçelievler Mahallesi Kültür Sokak No:1/A Bahçelievler/İstanbul"
+  },
+  {
+   "name": "Özel Medicalpark Göztepe Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Merdivenköy Mahallesi E5 Üzeri 23 Nisan Sokak No:17 34732 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Medicalpark İstanbul Onkoloji Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Maltepe",
+   "address": "Cevizli Mahallesi Talatpaşa Caddesi No:75 Maltepe/İstanbul"
+  },
+  {
+   "name": "Özel Medicana Ataköy Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Ataköy 2-5-6. Kısım Mah. Rauf Orbay Cad. No:2/1V Bakırköy/İstanbul"
+  },
+  {
+   "name": "Özel Medicana Ataşehir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mah. Vedat Günyol Cad. No:24 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Medicana Hospitals Avcılar Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Avcıla",
+   "address": "Merkez Mahallesi Şamlı Sokak No:34 Avcıla/İstanbul"
+  },
+  {
+   "name": "Özel Medicana Hospitals Bahçelievler Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bahçelievler",
+   "address": "Bahçelievler Mahallesi Adnan Kahveci Bulvarı No:2 Bahçelievler/İstanbul"
+  },
+  {
+   "name": "Özel Medicana Hospitals Çamlıca Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Kısıklı Mahallesi Alemdağ Caddesi No:113 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Medicana İnternetional İstanbul Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beylikdüzü",
+   "address": "Büyükşehir Mahallesi Beylikdüzü Caddesi No:3 Beylikdüzü/İstanbul"
+  },
+  {
+   "name": "Özel Medicana Kadıköy Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Zühtüpaşa Mahallesi Recep Peker Caddesi No:11/1 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Medicana Zincirlikuyu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Esentepe Mah. Büyükdere Cad. No:165 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Medicell Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Büyükçekmece",
+   "address": "Mimaroba Mah. Çarmaklı Cad. No:7/1 Büyükçekmece/İstanbul"
+  },
+  {
+   "name": "Özel Medient Kbb Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Sahrayıcedit Mah. Halk Sk. No:50/1 Kadıköy / İstanbul"
+  },
+  {
+   "name": "Özel Medigold Sultan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Sultangazi",
+   "address": "Uğur Mumcu Mah. Eski Edirne Asfaltı Cad. No: 608 A/B Sultangazi/İstanbul"
+  },
+  {
+   "name": "Özel Medipoint Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Merdivenköy Mah. Şair Arşi Cad. No:6 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Medipol Acıbadem Bölge Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Acıbadem Mah. Şehit Emin Çölen No:18 Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Medipol Bahçelievler Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bahçelievler",
+   "address": "Çobançeşme Mah. Fatih Cad. No:1/8 Bahçelievler/İstanbul"
+  },
+  {
+   "name": "Özel Medipol Mega Hastaneler Kompleksi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bağcılar",
+   "address": "Göztepe Mahallesi 2309 Sokak No:6 Bağcılar/İstanbul"
+  },
+  {
+   "name": "Özel Medistate Çekmeköy Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "",
+   "address": "Merkez Mah. Erenler Cad. No:16 Çekmeköy – İstanbul"
+  },
+  {
+   "name": "Özel Medistate Kavacık Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beykoz",
+   "address": "Rüzgarlıbahçe Mahallesi Cumhuriyet Cad. No:24 Kavacık Beykoz/İstanbul"
+  },
+  {
+   "name": "Özel Medivia Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Çengelköy",
+   "address": "Güzeltepe Mah. Zübeyde Hanım Cad. No:15 Çengelköy/İstanbul"
+  },
+  {
+   "name": "Özel Medivia Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Güzeltepe Mah. Zübeyde Hanım Cad. No:25/1 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Mediworld Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bayrampaşa",
+   "address": "Yenidoğan Mah. Numunebağ Cad. Ahmet Yesevi Sok. No:1 Bayrampaşa/İstanbul"
+  },
+  {
+   "name": "Özel Megapol Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kartal",
+   "address": "Soğanlık Yeni, Orta, Genç Osman Cd. No:2, 34880 Kartal/İstanbul"
+  },
+  {
+   "name": "Özel Memorial Ataşehir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mahallesi Vedat Günyol Caddesi No:28- 30 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Memorial Bahçelievler Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bahçelievler",
+   "address": "Bahçelievler Mahallesi Adnan Kahveci Bulvarı No:227 Bahçelievler/İstanbul"
+  },
+  {
+   "name": "Özel Memorial Göztepe Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Yenisahra Mah./Bucağı (Köyü) Karaman Cad./Bina No:1 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Memorial Şişli Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Piyalepaşa Mah. Okmeydanı Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Mercan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Tuzla",
+   "address": "Yayla Mah. Ali İhsan Paşa Cad. No:52 Tuzla/İstanbul"
+  },
+  {
+   "name": "Özel Merve Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Gaziosmanpaşa",
+   "address": "Barbaros Hayrettin Paşa Mah. Eski Edirne Asfaltı Cad. No:344 Gaziosmanpaşa/İstanbul"
+  },
+  {
+   "name": "Özel Moodist Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Acıbadem Mah. Çeçen Sok. No:52 (74 pafta, 1341 ada, 66 parsel) Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel Natural Clinic Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Ataköy 7-8-9-10. Kısım Mahallesi Çobançeşme E-5 Yanyol Caddesi No:8/2/4 Bakırköy/İstanbul"
+  },
+  {
+   "name": "Özel Neolife Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Nispetiye Mahallesi Yücel Sokak No:6 Levent Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Özel Nişantaşı Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Teşvikiye Mah. Fulya Sok. No.5 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel NP İstanbul Beyin Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Ümraniye",
+   "address": "Saray Mahallesi Ahmet Tevfik İleri Cad. No:18 34768 Ümraniye/İstanbul"
+  },
+  {
+   "name": "Özel Onep Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "",
+   "address": "Levent Mahallesi Manolyalı Sokak No:15 İstanbul"
+  },
+  {
+   "name": "Özel Orion Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kağıthane",
+   "address": "Hamidiye Mah. Anadolu Cad. No:18 Kağıthane/İstanbul"
+  },
+  {
+   "name": "Özel Osmanoğlu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Merkez Mah. Dilaçar Sk. No:4 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Ota-Jinemed Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Beşiktaş",
+   "address": "Muradiye Mahallesi Nüzhetiye Caddesi Deryadil Sokak No:1 Beşiktaş/İstanbul"
+  },
+  {
+   "name": "Özel Örnek Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Örnek Mah. Şehit Cahar Dudayev Cad. No:140/D D/2 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Öz İstanbul Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bağcılar",
+   "address": "100 Yıl Mahallesi Barbaros Caddesi No:101 Bağcılar/İstanbul"
+  },
+  {
+   "name": "Özel Pendik Bölge Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Doğu Mahallesi Nevbahar Sokak No:1 Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Plasticera Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Esentepe Mahallesi Keskin Kalem Sokak No:1 Şişli/istanbul"
+  },
+  {
+   "name": "Özel Quartz Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "19 Mayıs Mah. 19 Mayıs Cad. No:8/B Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Rami Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Eyüpsultan",
+   "address": "Rami Cuma Mah. Talimhane Cad. No:13 Eyüpsultan/İstanbul"
+  },
+  {
+   "name": "Özel Rumeli Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Tevfik Bey Mahallesi Mektep Sokak No:11 Sefaköy Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "Özel Saygı Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Sultanbeyli",
+   "address": "Abdurrahmangazi Mahallesi Fatih Bulvarı No:75 34920 Sultanbeyli/İstanbul"
+  },
+  {
+   "name": "Özel Silivri Anadolu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Silivri",
+   "address": "Mimar Sinan Mahallesi Mimar Sinan Caddesi No:72 Silivri/İstanbul"
+  },
+  {
+   "name": "Özel Sistem Göz Hastalıkları Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Batı Mah. Vişne Sok. No: 9 Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Şişli Kolan İnternational Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Kaptanpaşa Mahallesi Okmeydanı Kavşağı Darülaceze Caddesi No:14 34384 Okmeydanı Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Tarabya Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Sarıyer",
+   "address": "Ferahevler Mah. Adnan Kahveci Cad. No:49 Sarıyer/İstanbul"
+  },
+  {
+   "name": "Özel Tusa Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Tuzla",
+   "address": "Aydıntepe Mahallesi Güzin Sokak No:6 Tuzla/İstanbul"
+  },
+  {
+   "name": "Özel Türkiye Gazetesi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Merkez Mahallesi Darülaceze Caddesi No: 14/1 Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Üsküdar Hospitaltürk Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Mimar Sinan Mah. Selmanı Park Cad.No:72 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Özel V.K.V. Amerikan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Şişli",
+   "address": "Teşvikiye Mahallesi Güzelbahçe Sokak No:20 Nişantaşı Şişli/İstanbul"
+  },
+  {
+   "name": "Özel Veni Vidi Göz Merkezi / Pendik",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Fevzi Çakmak Mah. Özenli Sok. No:1 Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Veni Vidi Göz Merkezi Atalar",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kartal",
+   "address": "Petrol İş Mah. Üsküdar Cad. Besimpaşa Sok. No:1 Kartal/İstanbul"
+  },
+  {
+   "name": "Özel Veni Vidi Göz Merkezi Bakırköy",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Zeytinlik Mah. Milliyetçi Sok. No:4/1 Bakırköy/İstanbul"
+  },
+  {
+   "name": "Özel Veni Vidi Göz Sağlığı Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Bağdat Caddesi No: 257 Caddebostan-Kadıköy/İstanbul"
+  },
+  {
+   "name": "Özel Veni Vidi Göz Tıp Merkezi/Ataşehir",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mah. Çardak Sok. No:1 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel Vera Sm Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Sultan Murat Caddesi Sultan Murat Mahallesi No 113 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "Özel Veraclinic Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Küçükbakkalköy Mah. Atilla İlhan Cad. No:29-31 Ataşehir/İstanbul"
+  },
+  {
+   "name": "Özel VM Medical Park Maltepe Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Maltepe",
+   "address": "Cevizli Mahallesi Bağdat Caddesi No:547 Maltepe/İstanbul"
+  },
+  {
+   "name": "Özel VM Medicalpark Pendik Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Fevzi Çakmak Mah. D 100 Bulvarı Cemal Gürsel Cad. Pendik/İstanbul"
+  },
+  {
+   "name": "Özel Yaman Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bağcılar",
+   "address": "Hürriyet Mahallesi Atatürk Caddesi No:45/A Bağcılar/İstanbul"
+  },
+  {
+   "name": "Özel Yaşar Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Kartaltepe Mah. İncirli Cad. No:22 Bakırköy/İstanbul"
+  },
+  {
+   "name": "Özel Yedikule Surp Pırgiç Ermeni Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Zeytinburnu",
+   "address": "Kazlıçeşme Mah. Zakirbaşı Sok. No:32 Zeytinburnu/İstanbul"
+  },
+  {
+   "name": "Özel Yeni Hayat Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Esenyurt",
+   "address": "Şehitler Mah. Cumhuriyet Cad. No:86 Esenyurt/İstanbul"
+  },
+  {
+   "name": "Özel Yeşilköy Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İstanbul",
+   "district": "Bakırköy",
+   "address": "Yeşilköy Mahallesi Atatürk Caddesi No:23-B1 Bakırköy/İstanbul"
+  },
+  {
+   "name": "Özel Yüzyıl Hastanesi Pendik",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Fevzi Çakmak Mahallesi Tevfik İleri Cd No:105 34890 Pendik/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Başakşehir Çam ve Sakura Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Başakşehir",
+   "address": "Başakşehir Mah.G/34 Cd.No:2L Başakşehir/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Erenköy Fizik Tedavi ve Rehabilitasyon Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Şemsettin Günaltay Caddesi Sultan Sokak No:14 Kadıköy/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Göztepe Prof. Dr. Süleyman Yalçın Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Kadıköy",
+   "address": "Eğitim Mah. Huzurbey Cad. 134/2 Kadıköy/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı İstanbul Ataşehir Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "Barbaros Mahallesi Fesleğen Sokak No:4 34758 Batı Ataşehir/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı İstanbul Baltalimanı Metin Sabancı Kemik Hastalıkları Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Sarıyer",
+   "address": "Baltalimanı Mah. Baltalimanı Hisar Cad. No:56 İç Kapı No:1 Sarıyer/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Kartal Dr. Lütfi Kırdar Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Kartal",
+   "address": "Denizer Cad. E-5 Karayolu Cevizli Mevkii No:47 Kartal/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Marmara Üniversitesi Pendik E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Pendik",
+   "address": "Fevzi Çakmak Mahallesi Muhsin Yazıcıoğlu Caddesi No:10 34899 Pendik/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı S.B.Ü. İstanbul Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Fatih",
+   "address": "Kasap İlyas Mahallesi Org. Abdurrahman Nafiz Gürman Caddesi 34098 Fatih/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ İstanbul Dr.Siyami Ersek Göğüs Kalp ve Damar Cerrahisi E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Tıbbiye Caddesi No:13 Haydarpaşa Üsküdar/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ İstanbul Fatih Sultan Mehmet E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "İçerenköy Mahallesi E-5 Karayolu Üzeri Ataşehir/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ İstanbul Haseki Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Fatih",
+   "address": "Aksaray Mahallesi Adnan Adıvar Caddesi 34130 Fatih/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ İstanbul Mehmet Akif Ersoy Göğüs Kalp ve Damar Cerrahisi E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Küçükçekmece",
+   "address": "Atakent Mahallesi Turgut Özal Bulvarı 34307 Küçükçekmece/İstanbul"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ İstanbul Sultan 2. Abdülhamit Han E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İstanbul",
+   "district": "Üsküdar",
+   "address": "Selimiye Mah. Tıbbiye Cad. 34668 Üsküdar/İstanbul"
+  },
+  {
+   "name": "Türk Kızılayı Özel Kartal Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İstanbul",
+   "district": "Kartal",
+   "address": "Yukarı Mah. Kızılay Bulvarı No:30 Kartal/İstanbul"
+  },
+  {
+   "name": "Üsküdar Üniversitesi Ağız Ve Diş Sağlığı Uygulama Ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Ümraniye",
+   "address": "Yamanevler Mahallesi Site Yolu Caddesi No: 13-15a Ümraniye/İstanbul"
+  },
+  {
+   "name": "Yeditepe Üniversitesi Sağlık Hizmetleri Eğitim ve Araştırma Uygulama Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "İstanbul",
+   "district": "Ataşehir",
+   "address": "İçerenköy Mahallesi Hastane Yolu Sokak 4,4/1 34718 Ataşehir / İstanbul"
+  },
+  {
+   "name": "Dokuz Eylül Üniversitesi Uygulama ve Araştırma Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "İzmir",
+   "district": "Balçova",
+   "address": "İnciraltı Mahallesi Mithatpaşa Caddesi İnciraltı Yerleşkesi No: 1606 Narlıdere Balçova/İzmir"
+  },
+  {
+   "name": "İzmir Ekonomi Üniversitesi (İEÜ) Özel Medicalpoint Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Karşıyaka",
+   "address": "İmbatlı Mahallesi 1825 Sokak No:12 Karşıyaka/İzmir"
+  },
+  {
+   "name": "İzmir Özel Can Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Çiğli",
+   "address": "Ataşehir Mahallesi 8019/16. Sokak No:18 35630 Çiğli/İzmir"
+  },
+  {
+   "name": "İzmir Tınaztepe Üniversitesi Özel Buca Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "Tınaztepe Mahallesi Ahmet Piriştina Bulvarı No:51 35400"
+  },
+  {
+   "name": "İzmir Tınaztepe Üniversitesi Özel Galen Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Bayraklı",
+   "address": "Manavkuyu Mah.250 Sk.No:23 Bayraklı/İzmir"
+  },
+  {
+   "name": "Özel Acıbadem Kent Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "İstasyonaltı Mahallesi 8229/1. Sokak. No:56, 35630 Aosb"
+  },
+  {
+   "name": "Özel AG Avrupa Göz Hastalıkları Dal Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Gaziemir",
+   "address": "9 Eylül Mahallesi Önder Caddesi No:111/3 Gaziemir/İzmir"
+  },
+  {
+   "name": "Özel Akut Kalp Damar Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Gaziemir",
+   "address": "Dokuz Eylül Mahallesi 343/1 Sokak No:6 Gaziemir / İzmir"
+  },
+  {
+   "name": "Özel Alfa Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Bornova",
+   "address": "Kazımdirik Mahallesi 6244 Sokak No:1 35100 Bornova/İzmir"
+  },
+  {
+   "name": "Özel Ata Sağlık Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Bornova",
+   "address": "Kazım Dirik Mahallesi 297 Sokak No:1 Bornova/İzmir"
+  },
+  {
+   "name": "Özel Batı Anadolu Hastanesi Central Hospital",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Bayraklı",
+   "address": "Fuat Edip Baksi Mahallesi Zeki Yavaş Sokak No: 2/2, 35540 Bayraklı/İzmir"
+  },
+  {
+   "name": "Özel Batıgöz Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Balçova",
+   "address": "Bahçelerarası Mahallesi Mithatpaşa Caddesi No:36/Z04- Z04A Balçova/İzmir"
+  },
+  {
+   "name": "Özel Batıgöz Göz Sağlığı Dal Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "",
+   "address": "Şair Eşref Bulvarı 1371 Sokak No: 9 Çankaya-Konak /"
+  },
+  {
+   "name": "Özel Bazekol Çiğli Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Çiğli",
+   "address": "Ataşehir Mahallesi 8019/16 Sokak No:4 35630 Çiğli/ İzmir"
+  },
+  {
+   "name": "Özel Çankaya Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Akdeniz Mahallesi Gazi Bulvarı No:58 35210 Konak/İzmir"
+  },
+  {
+   "name": "Özel Çeşme Medicana Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Çeşme",
+   "address": "Ilıca Mahallesi 5003 Sokak No:58 Çeşme/İzmir"
+  },
+  {
+   "name": "Özel Dünyagöz Hastanesi İzmir",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Mimar Sinan Mahallesi Ali Çetinkaya Bulvarı No:79 Konak/İzmir"
+  },
+  {
+   "name": "Özel Egegöz Göz Hastalıkları Dal Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Bornova",
+   "address": "Erzen Mah. Kazımkarabekir Cad. 77. Sok. No:2/D Bornova/İzmir"
+  },
+  {
+   "name": "Özel Egepol Cerrahi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Güneşli Mahallesi 528/1 Sokak No:3/A Konak/İzmir"
+  },
+  {
+   "name": "Özel Egepol Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "Güneşli Mah. 527 Sok. No: 2 Konak-İZMİR"
+  },
+  {
+   "name": "Özel Egepol International Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Güneşli Mah. Halide Edip Adıvar Caddesi No:57 Konak/İzmir"
+  },
+  {
+   "name": "Özel Emot El Mikrocerrahi Ortopedi Travmatoloji Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "1418 Sokak No:14 Kahramanlar Konak/İzmir"
+  },
+  {
+   "name": "Özel Emot Plus Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Kahramanlar Mahallesi 1418 Sokak No:18 Konak/İzmir"
+  },
+  {
+   "name": "Özel Ento Kulak Burun Boğaz Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Bornova",
+   "address": "Kazımdirik Mahallesi 364/1. Sokak No:36 D:A 35100 Bornova/İzmir"
+  },
+  {
+   "name": "Özel Gazi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "Kahramanlar Mahallesi Nevzat Güzelırmak Sokak No:29 35230 Konak-İZMİR"
+  },
+  {
+   "name": "Özel İrenbe Kadın Hastalıkları ve Doğum Dal Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "",
+   "address": "Alsancak Mahallesi Talatpaşa Bulv.1436 Sokak NO:6 35220 Konak /İZMİR"
+  },
+  {
+   "name": "Özel İzmir Avrupa Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Karabağlar",
+   "address": "Yunus Emre Mah. Şehit Pilot Volkan Koçyiğit Blv. No:18- 20 Karabağlar/İzmir"
+  },
+  {
+   "name": "Özel Karataş Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Barbaros Mah. Av. Selim Hakmen Sok. No:26 Konak/İzmir"
+  },
+  {
+   "name": "Özel Karşıyaka Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Karşıyaka",
+   "address": "Yalı Mahallesi Caher Dudayev Bulvarı No:71 35550 Karşıyaka/İzmir"
+  },
+  {
+   "name": "Özel Kaşkaloğlu Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Alsancak Mahallesi 1400. Sokak No:10 35220 Konak/İzmir"
+  },
+  {
+   "name": "Özel Medıcalpark İzmir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Kahramanlar Mah. 1397 Sok. No:1/101 Konak/İzmir"
+  },
+  {
+   "name": "Özel Medicana International İzmir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Yenişehir Mahallesi İşçiler Caddesi No:126 Konak/İzmir"
+  },
+  {
+   "name": "Özel Medifema Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Torbalı",
+   "address": "Ayrancılar Mah. Kocatepe Cad. No: 1 Torbalı/İzmir"
+  },
+  {
+   "name": "Özel Medihelp Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Menderes",
+   "address": "Gümüldür Fevzi Çakmak Mahallesi Meryemana Caddesi No:157 Menderes/İzmir"
+  },
+  {
+   "name": "Özel Metropol Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Çiğli",
+   "address": "Küçük Çiğli Mah. Anadolu Cad. No:1163 Çiğli/İzmir"
+  },
+  {
+   "name": "Özel Metropol Karşıyaka Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Bayraklı",
+   "address": "Soğukkuyu Mahallesi 1846/7 Sokak No:3 Bayraklı/İzmir"
+  },
+  {
+   "name": "Özel Onkomer Onkoloji Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Bornova",
+   "address": "Kazım Dirik Mah. Sanayi Cad. No:78 Bornova/İzmir"
+  },
+  {
+   "name": "Özel Sada Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Menemen",
+   "address": "Esatpaşa Mahallesi Çanakkale Asfaltı Cadde No:171 Menemen /İzmir"
+  },
+  {
+   "name": "Özel Sağlık Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "Mimar Sinan Mahallesi 1399 Sokak No:25 Konak/İZMİR"
+  },
+  {
+   "name": "Özel Tınaztepe Torbalı Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "İzmir",
+   "district": "Torbalı",
+   "address": "Tepeköy Mahallesi Aydın Caddesi No:336/1 Torbalı/İzmir"
+  },
+  {
+   "name": "Özel Veni Vidi Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "İzmir",
+   "district": "Çiğli",
+   "address": "İstasyonaltı Mahallesi 8258/3 Sokak No:4 Çiğli/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bornova Ağız ve Diş Sağlığı Merkezi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Mersinli Mah. 2800 sok. No:2 Çınarlı Konak/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bornova Türkan Özilhan Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "Ankara Caddesi Üzeri 4.Sanayi Girişi No: 305/ A Bornova/İZMİR"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Buca Seyfi Demirsoy Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Buca",
+   "address": "Kozağaç Mahallesi Özmen Caddesi No: 147 Buca/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Çeşme Alper Çizgenakat Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Çeşme",
+   "address": "Fahrettinpaşa Mahallesi 222 Sokak No:1 Ilıcalı Yolu Boyalık Mevki Çeşme/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Çiğli Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Çiğli",
+   "address": "Yeni Mahalle 8780/1 Sokak No:18 Ata Sanayi Çiğli/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı İzmir Alsancak Ağız ve Diş Sağlığı Merkezi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "1474 Sk.No:6 Alsancak Konak/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı İzmir Eğitim Diş Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Basmane",
+   "address": "Akıncı Mah. Fevzi Paşa Bulvarı No: 172/2 Basmane/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı İzmir Katip Çelebi Üniversitesi İzmir Atatürk E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Karabağlar",
+   "address": "Basın Sitesi 253 Sokak No: 143 Karabağlar/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı İzmir Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Bayraklı",
+   "address": "Refik Şevket İnce Mah. 2148/11 Sok. No:1/11 Bayraklı/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Ödemiş Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Ödemiş",
+   "address": "Zafer Mahallesi Ortaç Sok. No:10 Ödemiş/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ İzmir Dr. Behçet Uz Çocuk Hastalıkları ve Cerrahisi E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "1374 Sok.No:11 Alsancak-Konak / İZMİR"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ İzmir Dr. Suat Seren Göğüs Hastalıkları ve Cerrahisi E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Gaziler Caddesi No:331 Yenişehir Konak/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ İzmir Tepecik Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "Gaziler Cad.No:468 Yenişehir-Konak/ İZMİR"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Tire Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "",
+   "address": "Atatürk Mahallesi İnönü Bulvarı No:1 Tire/İZMİR"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Torbalı Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Torbalı",
+   "address": "Yedi Eylül Mahallesi Ekoten Caddesi No: 2 Torbalı/İzmir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Urla Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Urla",
+   "address": "Torasan Mahallesi Özbek Yolu Caddesi No:15 Urla/İzmir"
+  },
+  {
+   "name": "T.C.Sağlık Bakanlığı İzmir Alsancak Nevvar Salih İşgören Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Konak",
+   "address": "Kültür Mahallesi Ali Çetinkaya Bulvarı No:26 Konak/İzmir"
+  },
+  {
+   "name": "T.C.Sağlık Bakanlığı Menemen Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "İzmir",
+   "district": "Menemen",
+   "address": "Uğur Mumcu Mah.1249 Sok. No:11 Menemen/İzmir"
+  },
+  {
+   "name": "Kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Kahramanmaraş",
+   "district": "Onikişubat",
+   "address": "Kayseri Yolu Üzeri Avşar Yerleşkesi Onikişubat/Kahramanmaraş"
+  },
+  {
+   "name": "ÖZEL HG HOSPİTAL HASTANESİ",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kahramanmaraş",
+   "district": "Onikişubat",
+   "address": "ÜNGÜT MAHALLESİ PROF. DR. NECMETTİN ERBAKAN BULVARI NO:209, 46050 ONİKİŞUBAT/KAHRAMANMARAŞ"
+  },
+  {
+   "name": "Özel Sular Akademi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kahramanmaraş",
+   "district": "Dulkadiroğlu",
+   "address": "İstasyon Mah. 1. sok. No:27 Dulkadiroğlu/Kahramanmaraş"
+  },
+  {
+   "name": "Özel Uğur Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kahramanmaraş",
+   "district": "Onikişubat",
+   "address": "Şazibey Mah. Stad Cad. No:15 Onikişubat/Kahramanmaraş"
+  },
+  {
+   "name": "Özel Medikar Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Karabük",
+   "district": "Merkez",
+   "address": "Üniversite Mah. Şehit Ateşe Reşat Moralı Blv. No:7 Merkez/Karabük"
+  },
+  {
+   "name": "Erciyes Üniversitesi Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Kayseri",
+   "district": "Melikgazi",
+   "address": "Köşk Mah. Ahmet El Biruni Cad. No:50/52/54 Melikgazi/Kayseri"
+  },
+  {
+   "name": "Erciyes Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Kayseri",
+   "district": "Melikgazi",
+   "address": "Köşk Mahallesi Prof. Dr. Turhan Feyzioğlu Caddesi No:42 38039 Melikgazi/Kayseri"
+  },
+  {
+   "name": "Kayseri Nuh Naci Yazgan Üniversitesi Ağız ve Diş Sağlığı Eğitim Uygulama ve Araştırma Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Kayseri",
+   "district": "Kocasinan",
+   "address": "Kuzey Çevre Yolu Erkilet Dere Mh. Nuh Naci Yazgan Üniversitesi Yerleşkesi Kocasinan/Kayseri"
+  },
+  {
+   "name": "Özel Acıbadem Kayseri Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kayseri",
+   "district": "Melikgazi",
+   "address": "Melikgazi Mahallesi Mustafa Kemal Paşa Bulvarı No:1 38030 Melikgazi/Kayseri"
+  },
+  {
+   "name": "Özel Dünyam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kayseri",
+   "district": "Kocasinan",
+   "address": "Hastane Caddesi Kenarcık Sokak No:10 Kocasinan/Kayseri"
+  },
+  {
+   "name": "Özel Erciyes Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kayseri",
+   "district": "Melikgazi",
+   "address": "Tacettin Veli Mah. Lalezade Cad. No:46 Melikgazi/Kayseri"
+  },
+  {
+   "name": "Özel Kayseri İdeal Cerrahi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Kayseri",
+   "district": "Melikgazi",
+   "address": "Keykubat Mah. Osman Kavuncu Blv. No:273/A Melikgazi/Kayseri"
+  },
+  {
+   "name": "Özel Kayseri Tekden Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kayseri",
+   "district": "",
+   "address": "Gevher Nesibe Mahallesi Gür Sokak No : 4 Kocasinan /"
+  },
+  {
+   "name": "Özel Kızılay Sağlık A.Ş. Kayseri Şubesi (Özel T.T.S.İ.S. Kızılay Hastanesi)",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kayseri",
+   "district": "Melikgazi",
+   "address": "Taceddin Veli Mah.Halit Narin cad.No:5 Melikgazi/Kayseri"
+  },
+  {
+   "name": "Özel Maya Kayseri Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kayseri",
+   "district": "Melikgazi",
+   "address": "Köşk Mahallesi Talas Bulvarı No:41 Melikgazi/Kayseri"
+  },
+  {
+   "name": "Özel Memorial Kayseri Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kayseri",
+   "district": "Kocasinan",
+   "address": "Örnek Evler Mahallesi, Salih Avgun Paşa Cad.Temizel Sokak D:13, 38010 Kocasinan/Kayseri"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Kayseri Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Kayseri",
+   "district": "Kocasinan",
+   "address": "Şeker Mahallesi Molu Caddesi Kocasinan / Kayseri"
+  },
+  {
+   "name": "Özel Balkan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kırklareli",
+   "district": "Lüleburgaz",
+   "address": "Babaeski D-100 Karayolu Ayvalık Kavşağı 4.Km (3024 Parsel) Lüleburgaz/Kırklareli"
+  },
+  {
+   "name": "Özel Bir Nefes Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kırklareli",
+   "district": "Lüleburgaz",
+   "address": "Siteler Mah. Nazif Balkan Cad. No: 35-37 Lüleburgaz/Kırklareli"
+  },
+  {
+   "name": "Özel Medikent Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kırklareli",
+   "district": "Lüleburgaz",
+   "address": "Dere Mahallesi Edirne Asfaltı, Küme Evler No:6 Lüleburgaz/Kırklareli"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Kırklareli Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Kırklareli",
+   "district": "",
+   "address": "Merkez Yayla Mahallesi Çamlık Caddesi No:49 Kırklareli"
+  },
+  {
+   "name": "Özel Aktif International Hospital Kocaeli",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "",
+   "address": "Yeniköy Merkez Mahallesi, Teknopark Caddesi N0:13 Başiskele / KOCAELİ"
+  },
+  {
+   "name": "Özel Anadolu Sağlık Merkezi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "Gebze",
+   "address": "Cumhuriyet Mahallesi 2255 Cumhuriyet Caddesi No:3 41400 Gebze/Kocaeli"
+  },
+  {
+   "name": "Özel Atakent Cihan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "İzmit",
+   "address": "Yenişehir Mah. Başak Cad. Özden Sok. No:33 İzmit/Kocaeli"
+  },
+  {
+   "name": "Özel Büyük Anadolu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "Darıca",
+   "address": "Osmangazi mahallesi FatihSultan Mehmet Caddesi No: 117 Darıca/Kocaeli"
+  },
+  {
+   "name": "Özel Çağın Göz Hastalıkları Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "İzmit",
+   "address": "Yahyakaptan Mahallesi Demokrasi Caddesi No:38 41050 İzmit/Kocaeli"
+  },
+  {
+   "name": "Özel Dünya Göz Hastanesi İzmit",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "İzmit",
+   "address": "Kadıköy Mahallesi Atatürk Bulvarı No:2 41050 İzmit/Kocaeli"
+  },
+  {
+   "name": "Özel İlgi Çocuk ve Fizik Tedavi Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Kocaeli",
+   "district": "Gebze",
+   "address": "Osman Yılmaz Mahallesi İstanbul Caddesi No: 38 Gebze/Kocaeli"
+  },
+  {
+   "name": "Özel Kocaeli Akademi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "Başiskele",
+   "address": "Ovacık Mahallesi D-100 Karayolu No:22-24 Başiskele/Kocaeli"
+  },
+  {
+   "name": "Özel Kocaeli Romatem Fizik Tedavi ve Rehabilitasyon Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "İzmit",
+   "address": "Yahya Kaptan Mahallesi Hanedan Sokak No:4 İzmit/Kocaeli"
+  },
+  {
+   "name": "Özel Konak Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "",
+   "address": "Yenişehir Mahallesi Demokrasi Bulvarı NO:44 İzmit/KOCAELİ"
+  },
+  {
+   "name": "Özel Medar Hastanesi Gölcük",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "Gölcük",
+   "address": "Çiftlik Mahallesi. 4179 Sk. NO: 1 Gölcük / Kocaeli"
+  },
+  {
+   "name": "Özel Medicalpark Gebze Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "Gebze",
+   "address": "Güzeller Mahallesi Kavak Caddesi No: 5 Gebze/Kocaeli"
+  },
+  {
+   "name": "Özel Merkez Prime Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "Gebze",
+   "address": "Yenikent Mahallesi 2424 Sokak No:25 Gebze / Kocaeli"
+  },
+  {
+   "name": "Özel Vm Medıcalpark Gebze Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "Gebze",
+   "address": "Osman Yılmaz Mah. İstanbul Cad. No:26 Gebze/Kocaeli"
+  },
+  {
+   "name": "Özel VM Medicalpark Kocaeli Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "Başiskele",
+   "address": "Ovacık Mahallesi D-100 Karayolu Caddesi No:36 Başiskele/Kocaeli"
+  },
+  {
+   "name": "Özel Yüzyıl Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Kocaeli",
+   "district": "",
+   "address": "Sultan Orhan Mahallesi İlyasbey Caddesi NO:38 Gebze / KOCAELİ"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Kocaeli Şehir Hastanesi.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Kocaeli",
+   "district": "İzmit",
+   "address": "Tavşantepe, Akif Sk. No: 63, 41060 İzmit/Kocaeli"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Derince Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Kocaeli",
+   "district": "Derince",
+   "address": "İbni Sina Mahallesi Lojman Sokak Derince/Kocaeli"
+  },
+  {
+   "name": "Başkent Üniversitesi Konya Hastanesi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Hocacihan Saray Saray Caddesi No:1, 42080 Selçuklu/Konya"
+  },
+  {
+   "name": "N.E.Ü. Meram Tıp Fakültesi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Konya",
+   "district": "Meram",
+   "address": "Yunus Emre Mahallesi Bağlarbaşı Sokak 42080 Meram/Konya"
+  },
+  {
+   "name": "Özel Akşehir Parkhayat Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Konya",
+   "district": "Akşehir",
+   "address": "İstasyon Mahallesi İstasyon Caddesi 42000 Akşehir/Konya"
+  },
+  {
+   "name": "Özel Dünyagöz Hastanesi Konya",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Bedir Mahallesi Tebliğ Sokak No:1 42100 Selçuklu/Konya"
+  },
+  {
+   "name": "Özel Medicana Konya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Musalla Bağları Mah. Gürz Sokak No:1 Selçuklu/Konya"
+  },
+  {
+   "name": "Özel Medova Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Şeyh Şamil Mahallesi Dosteli Caddesi 52/1, 42070 Horozluhan Osb Selçuklu/Konya"
+  },
+  {
+   "name": "Özel Türkiye Kızılay Derneği Ticaret Borsası Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Konya",
+   "district": "Meram",
+   "address": "Sahibata Mahallesi Taşkapı Medrese Caddesi No:7 Meram/Konya"
+  },
+  {
+   "name": "Sbü. Konya Beyhekim Eğitim Ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Beyhekim Mh. Turgut Özal Cd. No: 7 Selçuklu/Konya"
+  },
+  {
+   "name": "Selçuk Üniversitesi Tıp Fakültesi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Akademi Mahallesi Celal Bayar Caddesi No:313 42130 Selçuklu/Konya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Cihanbeyli Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Konya",
+   "district": "Cihanbeyli",
+   "address": "Atçeken Mah. Hastane Cad. No:62 Cihanbeyli/Konya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Konya Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Parsana Mahallesi Beyhekim Caddesi No:3 42070 Selçuklu/Konya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Konya Dr. Ali Kemal Belviranlı Kadın Doğum ve Çocuk Hastalıkları Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Fatih Mahallesi Yeni İstanbul Caddesi No:30, 42285 Selçuklu/Konya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Konya Numune Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Konya",
+   "district": "Selçuklu",
+   "address": "Ferhuniye Mahallesi Hastane Caddesi No:22 42060 Selçuklu/Konya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Konya Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Konya",
+   "district": "",
+   "address": "Akabe Mah. Adana Çevre Yolu Cad. No:135 Karatay /"
+  },
+  {
+   "name": "Kütahya Sağlık Bilimleri Üniversitesi Ağız ve Diş Sağlığı Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Kütahya",
+   "district": "Merkez",
+   "address": "İstiklal Mahallesi Lala Hüseyin Paşa Caddesi No:271 Merkez/Kütahya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Kütahya Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Kütahya",
+   "district": "Merkez",
+   "address": "Evliya Çelebi Mah. Eken Paşa Cad. No: 19 Merkez/Kütahya"
+  },
+  {
+   "name": "İnönü Üniversitesi Turgut Özal Tıp Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Malatya",
+   "district": "Battalgazi",
+   "address": "Elazığ Yolu 15. Km. 44280 Battalgazi/Malatya"
+  },
+  {
+   "name": "Özel Malatya Park Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Malatya",
+   "district": "Battalgazi",
+   "address": "Fırat Mah. Şefik Tugay Cad. No:15/1 Battalgazi/Malatya"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Malatya Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Malatya",
+   "district": "",
+   "address": "Ankara Caddesi Özalper Mah. No:4 Malatya"
+  },
+  {
+   "name": "Manisa Celal Bayar Üniversitesi Hafsa Sultan Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Manisa",
+   "district": "Yunusemre",
+   "address": "Uncubozköy Mah. Mimar Sinan Sok. No:189 Yunusemre/Manisa"
+  },
+  {
+   "name": "Özel Grandmedical Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Manisa",
+   "district": "",
+   "address": "Güzelyurt Mah. 19 Mayıs Cad. No:4 Manisa"
+  },
+  {
+   "name": "T.C Sağlık Bakanlığı Manisa Merkezefendi Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Manisa",
+   "district": "Yunusemre",
+   "address": "Mimar Sinan Mahallesi No:141/A Yunusemre/Manisa"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Manisa Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Manisa",
+   "district": "Şehzadeler",
+   "address": "Adnan Menderes Mahallesi 132.Sok. No:15 Şehzadeler/Manisa"
+  },
+  {
+   "name": "Özel Cihanpol Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Mardin",
+   "district": "Kızıltepe",
+   "address": "Aşiti Mahallesi 20.Cadde No: 2 Kızıltepe/Mardin"
+  },
+  {
+   "name": "Mersin Üniversitesi Sağlık Araştırma ve Uygulama Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Mersin",
+   "district": "Yenişehir",
+   "address": "Mersin Üniversitesi Çiftlikköy Kampüsü 3340 Yenişehir/Mersin"
+  },
+  {
+   "name": "Özel IMC Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Mersin",
+   "district": "Akdeniz",
+   "address": "Turgutreis Mah. İstiklal Cad. Themenord Hotel No:188 Akdeniz/Mersin"
+  },
+  {
+   "name": "Özel Mersin Akademi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Mersin",
+   "district": "Yenişehir",
+   "address": "Menteş Mahallesi Barbaros Cd. 140.Sk No:105 Yenişehir/Mersin"
+  },
+  {
+   "name": "Özel Mersin Ortadoğu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Mersin",
+   "district": "Mezitli",
+   "address": "Atatürk Mahallesi 31035 Sk No:11 Mezitli/Mersin"
+  },
+  {
+   "name": "Özel Mersin Su Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Mersin",
+   "district": "Akdeniz",
+   "address": "İhsaniye Mah. Sait Çiftçi Cad. No:32/A Akdeniz/Mersin"
+  },
+  {
+   "name": "Özel Tarsus MMT Amerikan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Mersin",
+   "district": "Tarsus",
+   "address": "Öğretmenler Mahallesi Dumlupınar Cad. No: 1 33440 Tarsus/Mersin"
+  },
+  {
+   "name": "Özel VM Medicalpark Mersin Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Mersin",
+   "district": "Mezitli",
+   "address": "Atatürk Mahallesi Gazi Mustafa Kemal Bulvarı. No: 676 Mezitli /Mersin"
+  },
+  {
+   "name": "Özel Yenişehir Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Mersin",
+   "district": "Yenişehir",
+   "address": "Güvenevler Mah. 20. Cad. No: 4 Yenişehir/Mersin"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Erdemli Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Mersin",
+   "district": "Erdemli",
+   "address": "Akdeniz Mah. Yavuz Sultan Selim Cad. 70/A Erdemli/Mersin"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Mersin Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Mersin",
+   "district": "Toroslar",
+   "address": "Korukent Mahallesi 96015 Sokak Mersin Entegre Sağlık Kampüsü 33240 Toroslar/Mersin"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Toros Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Mersin",
+   "district": "",
+   "address": "Yeni Mahalle Cemalpaşa Caddesi 5314 Sokak Akdeniz/MERSİN"
+  },
+  {
+   "name": "Özel Acıbadem Bodrum Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Bodrum",
+   "address": "Ortakent Mahallesi Gölbaşı Sokak No:11 Bodrum/Muğla"
+  },
+  {
+   "name": "Özel Acıbadem Bodrum Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Muğla",
+   "district": "Bodrum",
+   "address": "Türkkuyusu Mah. Kıbrıs Şehitleri cd. No:60/1-2-16-17 Bodrum/Muğla"
+  },
+  {
+   "name": "Özel Ahu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Marmaris",
+   "address": "Çıldır mh. 167. sk. No:3 Marmaris/Muğla"
+  },
+  {
+   "name": "Özel Bodrum Amerikan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Bodrum",
+   "address": "Türkkuyusu Mah. Mars Mabedi Cad. No:33/35 Bodrum/Muğla"
+  },
+  {
+   "name": "Özel İzan Sağlık Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Milas",
+   "address": "Hayıtlı Mahallesi Atatürk Bulvarı No:21 Milas/Muğla"
+  },
+  {
+   "name": "Özel Letoon Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Fethiye",
+   "address": "Pazaryeri Mah. Süleyman Demirel Blv. Şehit Hasan Küçük Çoban Cad.No:22 Fethiye/Muğla"
+  },
+  {
+   "name": "Özel Lokman Hekim Esnaf Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Fethiye",
+   "address": "Tuzla Mahallesi Sadi Pekin Caddesi 54. Sokak No:3 Fethiye / Muğla"
+  },
+  {
+   "name": "Özel Marmaris Yücelen Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Beldibi",
+   "address": "Cumhuriyet Mah. Turgut Özal Cad. No:1 Beldibi/Muğla"
+  },
+  {
+   "name": "Özel Memorial Bodrum Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Bodrum",
+   "address": "Müskebi, Badrum Cad No:2/2 İç Kapı No:1, 48420 Bodrum/Muğla"
+  },
+  {
+   "name": "Özel Ortaca Yücelen Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Ortaca",
+   "address": "Atatürk Mah. Muğla-Fethiye Karayolu Üzeri No:19 Ortaca/Muğla"
+  },
+  {
+   "name": "Özel Yücelen Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Muğla",
+   "district": "Menteşe",
+   "address": "Muğla-Marmaris Karayolu 112 Sk. No:22/C Menteşe/Muğla"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bodrum Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Muğla",
+   "district": "Bodrum",
+   "address": "Konacık Mahallesi Baş Eğmez Caddesi No:3 Bodrum/Muğla"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Marmaris Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Muğla",
+   "district": "Marmaris",
+   "address": "Beldibi Mah. Atatürk Cad. No: 20 Marmaris/Muğla"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Muğla Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Muğla",
+   "district": "Menteşe",
+   "address": "Kötekli Mahallesi Marmaris Yolu Üzeri No: 48 Menteşe/Muğla"
+  },
+  {
+   "name": "Kapadokya Üniversitesi Ağız ve Diş Sağlığı Merkezi",
+   "type": "Vakıf Üniversitesi Hastanesi",
+   "type_en": "Private (foundation) university hospital",
+   "province": "Nevşehir",
+   "district": "Ürgüp",
+   "address": "Kavaklıönü Mah. Ahmet Taner Kışlalı Cad. No:4 Ürgüp/Nevşehir"
+  },
+  {
+   "name": "Nevşehir Hacı Bektaş Veli Üniversitesi Ağız ve Diş Sağlığı Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Nevşehir",
+   "district": "Merkez",
+   "address": "2000 Evler Mah. Zübeyde Hanım Cad. Fen Edebiyat Fakültesi 1. ve 6. Blokları Merkez/Nevşehir"
+  },
+  {
+   "name": "Özel Kapadokya Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Nevşehir",
+   "district": "Merkez",
+   "address": "Güzelyurt Mahallesi Vefa Küçük Caddesi No:9 50300 Merkez/Nevşehir"
+  },
+  {
+   "name": "Özel Versa Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Nevşehir",
+   "district": "",
+   "address": "Güzelyurt Mah. Ürgüp Cad. No:43 Nevşehir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Kozaklı Fizik Tedavi ve Rehabilitasyon Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Nevşehir",
+   "district": "Kozaklı",
+   "address": "Emek Mah. Kaplıca Cad. No:121 Kozaklı/Nevşehir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Nevşehir Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Nevşehir",
+   "district": "Merkez",
+   "address": "15 Temmuz Mah. 148. Sok. No:1 Merkez/Nevşehir"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Ürgüp Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Nevşehir",
+   "district": "Ürgüp",
+   "address": "15 Temmuz Mah. Otogar Cad. No:3 Ürgüp/Nevşehir"
+  },
+  {
+   "name": "Niğde Ömer Halisdemir Üniversitesi Ağız ve Diş Sağlığı Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Niğde",
+   "district": "Merkez",
+   "address": "Diş Hekimliği Fakültesi, Merkez Yerleşke, Bor Yolu Üzeri, Merkez/Niğde"
+  },
+  {
+   "name": "Özel Ordu Medicalpark Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ordu",
+   "district": "Merkez",
+   "address": "Akyazı Mahallesi Gaffar Okkan Caddesi No: 9 Merkez/Ordu"
+  },
+  {
+   "name": "Özel Ordu Sevgi Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ordu",
+   "district": "",
+   "address": "Karşıyaka Mah. 906.Sokak No:5/Ordu"
+  },
+  {
+   "name": "Özel Ordu Umut Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ordu",
+   "district": "Altunordu",
+   "address": "Şahincili Mahallesi Zübeyse Hanım Caddesi No: 218 Altunordu/Ordu"
+  },
+  {
+   "name": "Özel Ünye Çakırtepe Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ordu",
+   "district": "Ünye",
+   "address": "Atatürk Mahallesi Tepeyolu Sokak No:43 Ünye/Ordu"
+  },
+  {
+   "name": "ÖZEL ZFK BAHÇEŞEHİR HASTANESİ",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Ordu",
+   "district": "Fatsa",
+   "address": "AYAZLI MAH. KUMRU KORGAN ASFALTI CAD. NO: 34 FATSA/ORDU"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Ordu Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ordu",
+   "district": "Merkez",
+   "address": "Şahincili Mahallesi, Dr. Fahrettin Önsel Cd., 52200 Ordu Merkez/Ordu"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Ünye Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Ordu",
+   "district": "Ünye",
+   "address": "Burunucu Mahallesi Terme Caddesi No:71 Ünye/Ordu"
+  },
+  {
+   "name": "ÖZEL YENİHAYAT HASTANESİ",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Osmaniye",
+   "district": "",
+   "address": "MEHMET AKİF ERSOY MAH. ATATÜRK CAD. NO: 395 MERKEZ/OSMANİYE"
+  },
+  {
+   "name": "Özel Şar Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Rize",
+   "district": "",
+   "address": "Eminettin Mah. Cumhuriyet Cad. No:73/Rize"
+  },
+  {
+   "name": "Recep Tayyip Erdoğan Üniversitesi Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Rize",
+   "district": "Merkez",
+   "address": "İslampaşa Mah. Menderes Blv. No:612 Merkez/Rize"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Rize Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Rize",
+   "district": "Merkez",
+   "address": "Eminettin Mah. Atatürk Cad. No:233 Merkez/Rize"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Rize Recep Tayyip Erdoğan Üniversitesi E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Rize",
+   "district": "Merkez",
+   "address": "Zihni Derin Yerleşkesi Fener Mahallesi 53100 Merkez/Rize"
+  },
+  {
+   "name": "Özel Adatıp Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Sakarya",
+   "district": "Serdivan",
+   "address": "İstiklal Mahallesi Şehit Mehmet Karabaşoğlu Caddesi No:67 Serdivan / SAKARYA"
+  },
+  {
+   "name": "Özel Beyhekim Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Sakarya",
+   "district": "Adapazarı",
+   "address": "Tepekum Mahallesi, Beyhekim Sk. No:10, 54100 Adapazarı/Sakarya"
+  },
+  {
+   "name": "Özel Dünyagöz Tıp Merkezi Sakarya",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Sakarya",
+   "district": "Serdivan",
+   "address": "Arabacıalanı Mah. Mehmet Akif Ersoy Cd. No:7/A Serdivan/Sakarya"
+  },
+  {
+   "name": "Özel İnci Göz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Sakarya",
+   "district": "Adapazarı",
+   "address": "Yenigün Mah.15 Temmuz Bulvarı No:8 Adapazarı/Sakarya"
+  },
+  {
+   "name": "Özel Medar Hastanesi Sakarya",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Sakarya",
+   "district": "",
+   "address": "Kemalpaşa Mahallesi Bağlar Caddesi No:116 Serdivan /"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Sakarya Üniversitesi Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Sakarya",
+   "district": "Adapazarı",
+   "address": "Adnan Menderes Cad.Sağlık Sk.No:195 Adapazarı/Sakarya"
+  },
+  {
+   "name": "Özel Dünyagöz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Samsun",
+   "district": "İlkadım",
+   "address": "19 Mayıs Mahallesi Dr.Kamil Caddesi No:6 İlkadım/Samsun"
+  },
+  {
+   "name": "Özel FBM Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Samsun",
+   "district": "Atakum",
+   "address": "Cumhuriyet Mahallesi, Atatürk Blv. No:400, 55200 Atakum/Samsun"
+  },
+  {
+   "name": "Özel Liv Hospital Samsun Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Samsun",
+   "district": "İlkadım",
+   "address": "Hançerli Mahallesi F. Sultan Mehmet Cad. No:155 55020 İlkadım/Samsun"
+  },
+  {
+   "name": "Özel Medibafra Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Samsun",
+   "district": "Bafra",
+   "address": "Altınyaprak Mahallesi, Hastane Sk. No:27, 55410 Bafra/Samsun"
+  },
+  {
+   "name": "Özel Medicana İnternational Samsun Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Samsun",
+   "district": "Canik",
+   "address": "Yenimahalle Mahallesi Şht. Mesut Birinci Caddesi No:85 55080 Canik/Samsun"
+  },
+  {
+   "name": "Özel Romatem Samsun Fizik Tedavi ve Rehabilitasyon Dal Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Samsun",
+   "district": "Canik",
+   "address": "Yenimahalle 7. Sok. No:35 Canik/Samsun"
+  },
+  {
+   "name": "Özel Samsun Büyük Anadolu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Samsun",
+   "district": "İlkadım",
+   "address": "Ulugazi Mahallesi İstiklal Caddesi No:48 İlkadım/Samsun"
+  },
+  {
+   "name": "Özel VM Medicalpark Samsun Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Samsun",
+   "district": "Atakum",
+   "address": "Mimar Sinan Mahallesi Alparslan Bulvarı, No: 17 Atakum/Samsun"
+  },
+  {
+   "name": "Samsun Ondokuz Mayıs Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Samsun",
+   "district": "Atakum",
+   "address": "Körfez Mahallesi Kurupelit Kampüsü Atakum/Samsun"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Bafra Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Samsun",
+   "district": "Bafra",
+   "address": "İshaklı Mah. Bayrak Sok. No:14 Bafra/Samsun"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Çarşamba Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Samsun",
+   "district": "Çarşamba",
+   "address": "Helvacalı Mah. Kavakdibi Mevkii 6000. Sok. No:13 Çarşamba/Samsun"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Samsun Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "Samsun",
+   "district": "İlkadım",
+   "address": "Adalet Mahallesi Lise Cad. No:83 İlkadım/Samsun"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Samsun Gazi Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Samsun",
+   "district": "İlkadım",
+   "address": "Yenidoğan Mah. Aziziye Cad. No:86 İlkadım/Samsun"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Samsun Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Samsun",
+   "district": "Canik",
+   "address": "Atatürk Mahallesi 932.Caddesi No:11 Canik/Samsun"
+  },
+  {
+   "name": "Cumhuriyet Üniversitesi Sağlık Hizmetleri Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Sivas",
+   "district": "Hastanesi",
+   "address": "Sivas Cumhuriyet Üniversitesi Sağlık Hizmetleri Uygulama ve Araştırma Hastanesi / Sivas"
+  },
+  {
+   "name": "Özel Medicana Sivas Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Sivas",
+   "district": "",
+   "address": "Kızılırmak Mahallesi Şehit Fethi Akyüz Caddesi No: 8,"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Sivas Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Ağız ve Diş Sağlığı Hastanesi",
+   "type_en": "Public dental hospital",
+   "province": "Sivas",
+   "district": "",
+   "address": "Kardeşler Mah. Balgat Cad. 6. Sokak No:5 Sivas"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Sivas Numune Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Sivas",
+   "district": "",
+   "address": "Yeşilyurt Mahallesi Caddesi SİVAS"
+  },
+  {
+   "name": "Özel Metrolife Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Şanlıurfa",
+   "district": "Karaköprü",
+   "address": "Şenevler Mahallesi 6129. Sokak 2-C Karaköprü / Şanlıurfa"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Şanlıurfa Mehmet Akif İnan E.A.H.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Şanlıurfa",
+   "district": "Haliliye",
+   "address": "Esentepe Mahallesi Ertuğrul Caddesi 63300 Haliliye/Şanlıurfa"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Şanlıurfa Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Şanlıurfa",
+   "district": "Eyyübiye",
+   "address": "Yenice Mahallesi Yenice Yolu No:1 Eyyübiye/Şanlıurfa"
+  },
+  {
+   "name": "Namık Kemal Üniversitesi Sağlık Uygulama ve Araştırma Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Tekirdağ",
+   "district": "Süleymanpaşa",
+   "address": "Namık Kemal Mahallesi Kampüs Caddesi No:1/14 Süleymanpaşa/Tekirdağ"
+  },
+  {
+   "name": "Özel Çorlu Vatan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Tekirdağ",
+   "district": "Çorlu",
+   "address": "Esentepe Mahallesi Deva Sokak No:11/A Çorlu/Tekirdağ"
+  },
+  {
+   "name": "Özel Dünyagöz Tıp Merkezi Çorlu",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Tekirdağ",
+   "district": "",
+   "address": "Kazımiye Mah. Ali Fuat Cebesoy Cad. No: 1 Çorlu,"
+  },
+  {
+   "name": "Özel İrmet Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Tekirdağ",
+   "district": "Çerkezköy",
+   "address": "Gaziosmanpaşa Mahallesi Namık Kemal Bulvarı No:17/21 Çerkezköy/Tekirdağ"
+  },
+  {
+   "name": "Özel Optimed Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Tekirdağ",
+   "district": "Çerkezköy",
+   "address": "Gazi Mustafa Kemel Paşa Mahalesi Atatürk Caddesi No:118 Çerkezköy/Tekirdağ"
+  },
+  {
+   "name": "Özel Optimed International Çorlu Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Tekirdağ",
+   "district": "Çorlu",
+   "address": "Ali Paşa Mah. Kılıç Ali Paşa Cad. No:36/1 Çorlu/Tekirdağ"
+  },
+  {
+   "name": "Özel Star Medica Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Tekirdağ",
+   "district": "Süleymanpaşa",
+   "address": "Orta Cami Mah. Mevlana Sok. No:12 Süleymanpaşa/Tekirdağ"
+  },
+  {
+   "name": "Özel Tekirdağ Yaşam Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Tekirdağ",
+   "district": "Süleymanpaşa",
+   "address": "Hürriyet Mahallesi, 20, Merkez, Büşra Sk., 59100 Süleymanpaşa/Tekirdağ"
+  },
+  {
+   "name": "Özel Vega Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Tekirdağ",
+   "district": "Çorlu",
+   "address": "Kazımiye Mahallesi, Uğur Mumcu Caddesi No:6 Çorlu/Tekirdağ"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Çorlu Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Tekirdağ",
+   "district": "Çorlu",
+   "address": "Omurtak Caddesi İstanbul Kısmı Çorlu /Tekirdağ"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Tekirdağ Dr. İsmail Fehmi Cumalıoğlu Şehir Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Tekirdağ",
+   "district": "Süleymanpaşa",
+   "address": "Gündoğdu-Turgut Mahallesi Yemen Sokak No:13 Süleymanpaşa/Tekirdağ"
+  },
+  {
+   "name": "Gaziosmanpaşa Üniversitesi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Tokat",
+   "district": "Merkez",
+   "address": "Kaleardı Mah. Muhittin Fisunoğlu Cad. Ali Şevki Erek Yerleşkesi Merkez/Tokat"
+  },
+  {
+   "name": "Özel Tokat Medicalpark Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Tokat",
+   "district": "Merkez",
+   "address": "Yeşilırmak Mahallesi Vali Zekai Gümüşdiş Bulvarı No:29 60230 Merkez/Tokat"
+  },
+  {
+   "name": "Karadeniz Teknik Üniversitesi Farabi Hastanesi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Trabzon",
+   "district": "Ortahisar",
+   "address": "Üniversite Mahallesi Farabi Caddesi No:64 Ortahisar/Trabzon"
+  },
+  {
+   "name": "Özel 7M Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Trabzon",
+   "district": "Akçaabat",
+   "address": "Kavaklı Mahallesi Samsun Caddesi No:5 Akçaabat/Trabzon"
+  },
+  {
+   "name": "Özel Kuzey Göz Hastalıkları Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Trabzon",
+   "district": "Ortahisar",
+   "address": "İnönü Mahallesi, İnönü Caddesi No:88/1 Ortahisar/Trabzon"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Akçaabat Haçkalı Baba Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Trabzon",
+   "district": "Akçaabat",
+   "address": "Yaylacık Mahallesi Adnan Menderes Caddesi No:2 Akçaabat/Trabzon"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Trabzon Ahi Evren Göğüs Kalp ve Damar Cerrahisi EAH.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Trabzon",
+   "district": "Merkez",
+   "address": "Soğuksu Mah. Vatan Cad. No: 9 Merkez/Trabzon"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Trabzon Kanuni EAH.",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Trabzon",
+   "district": "Yomra",
+   "address": "Kaşüstü Mah. Topal Osdman Sok. No:7 Yomra/TRABZON"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Trabzon Ağız ve Diş Sağlığı Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Trabzon",
+   "district": "Ortahisar",
+   "address": "Yenimahalle Devlet Sahil Yolu Cad. No:267, 61040 Ortahisar/Trabzon"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı Trabzon Fatih Devlet Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Trabzon",
+   "district": "Ortahisar",
+   "address": "İnönü Mah. Trabzonspor Bulv. No:177 Ortahisar/Trabzon"
+  },
+  {
+   "name": "Trabzon Özel İmperial Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Trabzon",
+   "district": "Ortahisar",
+   "address": "Kemerkaya Mahallesi, İller Sk. 27-29, 61200 Ortahisar/Trabzon"
+  },
+  {
+   "name": "Trabzon Özel Medicalpark Karadeniz Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Trabzon",
+   "district": "Merkez",
+   "address": "İnönü Mahallesi Yavuz Selim Bulvarı No:190 61040 Merkez/Trabzon"
+  },
+  {
+   "name": "Trabzon Özel Medicalpark Trabzon Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Trabzon",
+   "district": "Akçaabat",
+   "address": "Yıldızlı Beldesi Merkez Mahallesi Devlet Sahil Yolu Caddesi No:46 Akçaabat/Trabzon"
+  },
+  {
+   "name": "Özel Kemalöz Öztan Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Uşak",
+   "district": "Merkez",
+   "address": "Kemalöz Mahallesi Atatürk Bulvarı No:139 Merkez/Uşak"
+  },
+  {
+   "name": "Özel Akdamar (Güven) Hospital Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Van",
+   "district": "İpekyolu",
+   "address": "Hatuniye Mahallesi Asmin Sokak No:8 İpekyolu/Van"
+  },
+  {
+   "name": "Özel Lokman Hekim Van Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Van",
+   "district": "",
+   "address": "Zübeyde Hanım Caddesi No:87 Van"
+  },
+  {
+   "name": "Özel Urartu Göz Tıp Merkezi",
+   "type": "Özel Tıp Merkezi",
+   "type_en": "Private medical centre",
+   "province": "Van",
+   "district": "İpekyolu",
+   "address": "Halilağa Mahallesi İpekyolu Caddesi Stad Karşısı 3.Sokak No:3 İpekyolu/Van"
+  },
+  {
+   "name": "T.C. Sağlık Bakanlığı SBÜ Van Eğitim ve Araştırma Hastanesi",
+   "type": "Kamu Hastanesi",
+   "type_en": "Public hospital",
+   "province": "Van",
+   "district": "Edremit",
+   "address": "Süphan Mahallesi Hava Yolu Kavşağı 1. Kilometre Edremit/Van"
+  },
+  {
+   "name": "Van Yüzüncü Yıl Üniversitesi Dursun Odabaş Tıp Merkezi",
+   "type": "Kamu Üniversitesi Hastanesi",
+   "type_en": "Public university hospital",
+   "province": "Van",
+   "district": "",
+   "address": "Bardakçı Mahallesi Yüzüncü Yıl Üniversitesi 65080"
+  },
+  {
+   "name": "Özel Aktif International Hospital Yalova",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Yalova",
+   "district": "",
+   "address": "Fevzi Çakmak Mahallesi Şehit Ömer Faydalı Caddesi Fırın Sokak No:33 Yalova"
+  },
+  {
+   "name": "Özel Aktif İnternational Hospital",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Yalova",
+   "district": "Çiftlikköy",
+   "address": "Çiftlik Mah. Kemer Cad.No:5 Çiftlikköy/Yalova"
+  },
+  {
+   "name": "Özel Atakent Hastanesi",
+   "type": "Özel Hastane",
+   "type_en": "Private hospital",
+   "province": "Yalova",
+   "district": "Merkez",
+   "address": "Adnan Menderes Mahallesi, Ufuk Sk. No:7, 77200 Merkez/Yalova"
+  }
+ ]
+}
