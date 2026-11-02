@@ -1,0 +1,57 @@
+{
+ "title": "Licensed Health Tourism Facilities in Turkey 2026",
+ "id": "OWNER/licensed-health-tourism-facilities-turkey",
+ "subtitle": "680 hospitals and medical centres authorised for health tourism",
+ "description": "# Licensed health tourism facilities in Turkey (2026)\n\nA clean, machine-readable list of the **680 hospitals and medical centres** that the Turkish Ministry of Health has authorised to treat international patients (health tourism), across **55 provinces**.\n\nThe Ministry publishes this list only as PDF files. This dataset converts it into CSV and JSON so it can be searched, filtered and joined with other data.\n\n- **Source:** Turkish Ministry of Health, Department of Health Tourism – [authorised health facilities list](https://shgmturizmdb.saglik.gov.tr/TR-25360/yetkili-saglik-tesisleri-ve-araci-kuruluslar.html) (accessed 2026-10-29)\n- **Maintained by:** [TurkClinics Guide](https://www.turkclinicsguide.com/open-data) – an independent, multilingual guide to clinics in Turkey\n- **Licence:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) – free to reuse with attribution\n\n## Files\n\n| File | Format | Rows |\n|---|---|---|\n| `data/licensed-health-tourism-facilities-turkey.csv` | CSV, UTF-8 with BOM, comma-separated | 680 |\n| `data/licensed-health-tourism-facilities-turkey.json` | JSON | 680 |\n\n## Fields\n\n| Field | Description |\n|---|---|\n| `name` | Official registered name of the facility, as published by the Ministry (Turkish) |\n| `type` | Facility type as published (Turkish), normalised to 7 categories |\n| `type_en` | English translation of `type` |\n| `province` | Province (il) |\n| `district` | District (ilçe), empty when not given in the source |\n| `address` | Address as published |\n\nPhone numbers from the source are intentionally **not** included.\n\n## Facilities by type\n\n| Type | Count |\n|---|---|\n| Private hospital | 348 |\n| Private medical centre | 135 |\n| Public hospital | 109 |\n| Public university hospital | 40 |\n| Private (foundation) university hospital | 36 |\n| Public dental hospital | 11 |\n| Private dental hospital | 1 |\n\n## Top provinces\n\n| Province | Facilities |\n|---|---|\n| İstanbul | 224 |\n| Ankara | 68 |\n| İzmir | 59 |\n| Antalya | 43 |\n| Bursa | 18 |\n| Kocaeli | 18 |\n| Gaziantep | 17 |\n| Konya | 14 |\n\n## How to use it\n\n- **Patients:** before booking, ask the clinic for its *official registered name* and check that it appears in this list. Many brands operate under a different legal name or inside a partner hospital.\n- **Researchers and journalists:** the distribution of authorised facilities by province and type.\n- **Developers:** join on `name` or geocode the `address` field.\n\n## Notes and limitations\n\n- This list covers **hospitals and medical centres**. Authorised private practices (muayenehane) and polyclinics are published by the Ministry in separate lists and are not included here.\n- Being on the list means the facility is authorised for health tourism. It is **not** a quality rating or a recommendation.\n- Names and addresses are reproduced as published; the Ministry may update its list at any time. Always check the [official source](https://shgmturizmdb.saglik.gov.tr/TR-25360/yetkili-saglik-tesisleri-ve-araci-kuruluslar.html).\n- Clinic profiles, treatment guides and published prices: [turkclinicsguide.com](https://www.turkclinicsguide.com/).\n\n## Citation\n\n> TurkClinics Guide (2026). *Licensed health tourism facilities in Turkey* [Data set]. Based on Turkish Ministry of Health data (accessed 2026-10-29). https://www.turkclinicsguide.com/open-data\n",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0"
+  }
+ ],
+ "keywords": [
+  "health",
+  "healthcare",
+  "tourism",
+  "turkey"
+ ],
+ "resources": [
+  {
+   "path": "licensed-health-tourism-facilities-turkey.csv",
+   "description": "Facilities list (CSV)",
+   "schema": {
+    "fields": [
+     {
+      "name": "name",
+      "type": "string",
+      "description": "Official registered name (Turkish)"
+     },
+     {
+      "name": "type",
+      "type": "string",
+      "description": "Facility type as published (Turkish)"
+     },
+     {
+      "name": "type_en",
+      "type": "string",
+      "description": "Facility type (English)"
+     },
+     {
+      "name": "province",
+      "type": "string",
+      "description": "Province"
+     },
+     {
+      "name": "district",
+      "type": "string",
+      "description": "District"
+     },
+     {
+      "name": "address",
+      "type": "string",
+      "description": "Address as published"
+     }
+    ]
+   }
+  }
+ ]
+}

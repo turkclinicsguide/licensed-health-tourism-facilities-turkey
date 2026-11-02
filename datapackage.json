@@ -1,0 +1,71 @@
+{
+ "name": "licensed-health-tourism-facilities-turkey",
+ "title": "Licensed health tourism facilities in Turkey (2026)",
+ "description": "680 hospitals and medical centres authorised by the Turkish Ministry of Health for health tourism, as CSV and JSON.",
+ "homepage": "https://www.turkclinicsguide.com/open-data",
+ "version": "2026-10-29",
+ "licenses": [
+  {
+   "name": "CC-BY-4.0",
+   "path": "https://creativecommons.org/licenses/by/4.0/",
+   "title": "Creative Commons Attribution 4.0"
+  }
+ ],
+ "sources": [
+  {
+   "title": "Turkish Ministry of Health – authorised health facilities",
+   "path": "https://shgmturizmdb.saglik.gov.tr/TR-25360/yetkili-saglik-tesisleri-ve-araci-kuruluslar.html"
+  }
+ ],
+ "keywords": [
+  "turkey",
+  "health tourism",
+  "medical tourism",
+  "hospitals",
+  "clinics",
+  "open data"
+ ],
+ "resources": [
+  {
+   "name": "facilities",
+   "path": "data/licensed-health-tourism-facilities-turkey.csv",
+   "format": "csv",
+   "mediatype": "text/csv",
+   "encoding": "utf-8-sig",
+   "schema": {
+    "fields": [
+     {
+      "name": "name",
+      "type": "string",
+      "description": "Official registered name (Turkish)"
+     },
+     {
+      "name": "type",
+      "type": "string",
+      "description": "Facility type as published (Turkish)"
+     },
+     {
+      "name": "type_en",
+      "type": "string",
+      "description": "Facility type (English)"
+     },
+     {
+      "name": "province",
+      "type": "string",
+      "description": "Province"
+     },
+     {
+      "name": "district",
+      "type": "string",
+      "description": "District"
+     },
+     {
+      "name": "address",
+      "type": "string",
+      "description": "Address as published"
+     }
+    ]
+   }
+  }
+ ]
+}
